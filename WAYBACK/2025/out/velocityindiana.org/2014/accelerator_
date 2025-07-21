@@ -1,0 +1,292 @@
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("http://web.archive.org/web");
+  __wm.wombat("http://velocityindiana.org:80/accelerator/","20140108073506","http://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1389166506");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1B2M2Y8A" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=1B2M2Y8A" />
+<!-- End Wayback Rewrite JS Include -->
+
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Accelerator | Velocity</title>
+<link rel="profile" href="http://gmpg.org/xfn/11"/>
+<link rel="pingback" href="http://velocityindiana.org/xmlrpc.php"/>
+<link rel="stylesheet" href="http://web.archive.org/web/20140108073506cs_/http://velocityindiana.org/wp-content/themes/velocity/styles/webfonts.css" type="text/css"/>
+<link rel="stylesheet" href="http://web.archive.org/web/20140108073506cs_/http://velocityindiana.org/wp-content/themes/velocity/styles/normalize.css" type="text/css">
+<link rel="stylesheet" href="http://web.archive.org/web/20140108073506cs_/http://velocityindiana.org/wp-content/themes/velocity/styles/main.css" type="text/css">
+<link rel="stylesheet" href="http://web.archive.org/web/20140108073506cs_/http://velocityindiana.org/wp-content/themes/velocity/styles/library.css" type="text/css">
+<link href="http://web.archive.org/web/20140108073506cs_/http://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300,100" rel="stylesheet" type="text/css">
+<!--<script src="http://velocityindiana.org/wp-content/themes/velocity/scripts/vendor/modernizr-2.6.2.min.js"></script>-->
+<!--Enqueue these scripts and styles-->
+
+<!--[if lte IE 8]>
+<link rel="stylesheet" href="http://velocityindiana.org/wp-content/themes/velocity/styles/ie.css" type="text/css">
+<![endif]-->
+<!--[if lt IE 9]>
+<script src="http://velocityindiana.org/wp-content/themes/velocity/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<link rel="alternate" type="application/rss+xml" title="Velocity » Feed" href="http://web.archive.org/web/20140108073506/http://velocityindiana.org/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Velocity » Comments Feed" href="http://web.archive.org/web/20140108073506/http://velocityindiana.org/comments/feed/"/>
+<link rel="stylesheet" id="jobman-display-css" href="http://web.archive.org/web/20140108073506cs_/http://velocityindiana.org/wp-content/plugins/job-manager/css/display.css?ver=0.7.20" type="text/css" media="all"/>
+<link rel="stylesheet" id="contact-form-7-css" href="http://web.archive.org/web/20140108073506cs_/http://velocityindiana.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.6" type="text/css" media="all"/>
+<link rel="stylesheet" id="events-manager-css" href="http://web.archive.org/web/20140108073506cs_/http://velocityindiana.org/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.52" type="text/css" media="all"/>
+<link rel="stylesheet" id="velocity-style-css" href="http://web.archive.org/web/20140108073506cs_/http://velocityindiana.org/wp-content/themes/velocity/style.css?ver=3.8" type="text/css" media="all"/>
+<script type="text/javascript" src="http://web.archive.org/web/20140108073506js_/http://velocityindiana.org/wp-includes/js/jquery/jquery.js?ver=1.10.2"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140108073506js_/http://velocityindiana.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140108073506js_/http://velocityindiana.org/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.3"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140108073506js_/http://velocityindiana.org/wp-includes/js/jquery/ui/jquery.ui.datepicker.min.js?ver=1.10.3"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140108073506js_/http://velocityindiana.org/wp-content/plugins/job-manager/js/display.js?ver=0.7.20"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140108073506js_/http://velocityindiana.org/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.3"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140108073506js_/http://velocityindiana.org/wp-includes/js/jquery/ui/jquery.ui.position.min.js?ver=1.10.3"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140108073506js_/http://velocityindiana.org/wp-includes/js/jquery/ui/jquery.ui.mouse.min.js?ver=1.10.3"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140108073506js_/http://velocityindiana.org/wp-includes/js/jquery/ui/jquery.ui.sortable.min.js?ver=1.10.3"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140108073506js_/http://velocityindiana.org/wp-includes/js/jquery/ui/jquery.ui.menu.min.js?ver=1.10.3"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140108073506js_/http://velocityindiana.org/wp-includes/js/jquery/ui/jquery.ui.autocomplete.min.js?ver=1.10.3"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140108073506js_/http://velocityindiana.org/wp-includes/js/jquery/ui/jquery.ui.resizable.min.js?ver=1.10.3"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140108073506js_/http://velocityindiana.org/wp-includes/js/jquery/ui/jquery.ui.draggable.min.js?ver=1.10.3"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140108073506js_/http://velocityindiana.org/wp-includes/js/jquery/ui/jquery.ui.button.min.js?ver=1.10.3"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140108073506js_/http://velocityindiana.org/wp-includes/js/jquery/ui/jquery.ui.dialog.min.js?ver=1.10.3"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var EM = {"ajaxurl":"http:\/\/web.archive.org\/web\/20140108073506\/http:\/\/velocityindiana.org\/wp-admin\/admin-ajax.php","locationajaxurl":"http:\/\/web.archive.org\/web\/20140108073506\/http:\/\/velocityindiana.org\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"dd\/mm\/yy","ui_css":"http:\/\/web.archive.org\/web\/20140108073506\/http:\/\/velocityindiana.org\/wp-content\/plugins\/events-manager\/includes\/css\/ui-lightness.css","show24hours":"0","is_ssl":"","bookingInProgress":"Please wait while the booking is being submitted.","tickets_save":"Save Ticket","bookingajaxurl":"http:\/\/web.archive.org\/web\/20140108073506\/http:\/\/velocityindiana.org\/wp-admin\/admin-ajax.php","bookings_export_save":"Export Bookings","bookings_settings_save":"Save Settings","booking_delete":"Are you sure you want to delete?","bb_full":"Sold Out","bb_book":"Book Now","bb_booking":"Booking...","bb_booked":"Booking Submitted","bb_error":"Booking Error. Try again?","bb_cancel":"Cancel","bb_canceling":"Canceling...","bb_cancelled":"Cancelled","bb_cancel_error":"Cancellation Error. Try again?","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading...","event_reschedule_warning":"Are you sure you want to reschedule this recurring event? If you do this, you will lose all booking information and the old recurring events will be deleted.","event_detach_warning":"Are you sure you want to detach this event? By doing so, this event will be independent of the recurring set of events.","delete_recurrence_warning":"Are you sure you want to delete all recurrences of this event? All events will be moved to trash.","disable_bookings_warning":"Are you sure you want to disable bookings? If you do this and save, you will lose all previous bookings. If you wish to prevent further bookings, reduce the number of spaces available to the amount of bookings you currently have","booking_warning_cancel":"Are you sure you want to cancel your booking?"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://web.archive.org/web/20140108073506js_/http://velocityindiana.org/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.52"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://velocityindiana.org/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://velocityindiana.org/wp-includes/wlwmanifest.xml"/> 
+<link rel="prev" title="About" href="http://web.archive.org/web/20140108073506/http://velocityindiana.org/about/"/>
+<link rel="next" title="Companies" href="http://web.archive.org/web/20140108073506/http://velocityindiana.org/accelerator/companies/"/>
+<meta name="generator" content="WordPress 3.8"/>
+<link rel="canonical" href="http://web.archive.org/web/20140108073506/http://velocityindiana.org/accelerator/"/>
+<link rel="shortlink" href="http://web.archive.org/web/20140108073506/http://velocityindiana.org/?p=851"/>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-44206227-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'http://web.archive.org/web/20140108073506/https://ssl' : 'http://web.archive.org/web/20140108073506/http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<meta property="twitter:account_id" content="4503599627428034"/>
+</head>
+
+<body class="page page-id-851 page-parent page-template page-template-page-accelerator-php">
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//web.archive.org/web/20140108073506if_/http://www.googletagmanager.com/ns.html?id=GTM-MH4NLQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//web.archive.org/web/20140108073506/http://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MH4NLQ');</script>
+<!-- End Google Tag Manager -->
+
+<div id="page" class="hfeed site">
+
+	<header class="subpageHeader" role="banner">
+		<div class="pageWidth">
+			<div class="largeOneThird site-branding">
+				<a href="http://web.archive.org/web/20140108073506/http://velocityindiana.org/" class="site-title" title="Velocity" rel="home">Velocity</a>
+			</div>
+			<nav id="site-navigation" class="navigation-main largeTwoThird" role="navigation">
+				<div class="menu-toggle">☰</div>
+				<div class="menu-header-menu-container"><ul id="menu-header-menu" class="menu"><li id="menu-item-832" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-832"><a href="http://web.archive.org/web/20140108073506/http://velocityindiana.org/about/">About</a></li>
+<li id="menu-item-857" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-851 current_page_item menu-item-857"><a href="http://web.archive.org/web/20140108073506/http://velocityindiana.org/accelerator/">Accelerator</a></li>
+<li id="menu-item-821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-821"><a href="http://web.archive.org/web/20140108073506/http://velocityindiana.org/workspace/">Workspace</a></li>
+<li id="menu-item-1132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1132"><a href="http://web.archive.org/web/20140108073506/http://velocityindiana.org/events/">Events</a></li>
+<li id="menu-item-1154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1154"><a href="http://web.archive.org/web/20140108073506/http://velocityindiana.org/news/">Blog</a></li>
+<li id="menu-item-930" class="loginLink menu-item menu-item-type-custom menu-item-object-custom menu-item-930"><a href="/web/20140108073506/http://velocityindiana.org/wp-login.php">Login</a></li>
+</ul></div>			</nav><!-- #site-navigation -->
+		</div>
+	</header><!-- #masthead -->
+	
+	<div id="main" class="site-main">
+	
+
+
+
+	<div id="primary" class="content-area topLevelPage">
+		<div id="content" class="site-content" role="main">
+
+
+			
+				
+<article id="post-851" class="post-851 page type-page status-publish hentry">
+	<header class="entry-header">
+		<div class="pageWidth">
+			<h1 class="entry-title">
+
+			Accelerator			</h1>
+						  <ul>
+			  <li class="page_item page-item-879"><a href="http://web.archive.org/web/20140108073506/http://velocityindiana.org/accelerator/companies/">Companies</a></li>
+<li class="page_item page-item-9"><a href="http://web.archive.org/web/20140108073506/http://velocityindiana.org/accelerator/mentors/">Mentors</a></li>
+			  </ul>
+					</div>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content pageWidth">
+		<p style="text-align: center;"><span class="leadText">Our flagship program is our business accelerator. We provide direct funding &amp; mentoring for promising young companies through the critical early stages.</span></p>
+<p><!--<a href="http://faq" class="readMore">Learn more by reading our FAQ</a>&#8211;></p>
+			</div><!-- .entry-content -->
+</article>
+
+				
+						<div class="primaryAction">
+							</div>
+			<div class="pageWidth">				
+
+	        	<div id="acceleratorFunding" class="offering tabContainer is-open" style="display: block;">
+					<div id="fundingSpot" class="spot largeOneThird">
+						<img src="http://web.archive.org/web/20140108073506im_/http://velocityindiana.org/wp-content/themes/velocity/img/spot-funding.png"/>
+					</div>
+					<div class="largeTwoThird">
+						<h2>Funding</h2>
+<p>In addition to business support services, each team will receive:</p>
+<ul>
+<li>$20,000 in exchange for a small amount of equity in the company</li>
+<li>We provide approximately $450,000 worth of perks, including major discounts and upgrades on core services from program sponsors.</li>
+</ul>
+					</div>
+				</div>
+	        	<div id="acceleratorMentorship" class="offering tabContainer">
+					<div id="mentorshipSpot" class="spot largeOneThird">
+						<img src="http://web.archive.org/web/20140108073506im_/http://velocityindiana.org/wp-content/themes/velocity/img/spot-mentorship.png"/>
+					</div>
+					<div class="largeTwoThird">
+						<h2>Mentorship</h2>
+<p>In addition to our funding &amp; workspace, you&#8217;ll have access to some of the most talented, driven, innovative and interesting people in the area.</p>
+<p><a class="button_b" href="/web/20140108073506/http://velocityindiana.org/about/mentors">Our mentors</a></p>
+					</div>
+				</div>
+	        	<div id="acceleratorWorkspace" class="offering tabContainer">
+					<div id="workspaceSpot" class="spot largeOneThird">
+						<img src="http://web.archive.org/web/20140108073506im_/http://velocityindiana.org/wp-content/themes/velocity/img/spot-workspace.png"/>
+					</div>
+					<div class="largeTwoThird">
+						<h2>Workspace</h2>
+<p>Our membership boasts a lively camaraderie of social and interactive workers who break free from the isolation of working from home and instead get going.</p>
+<p><a class="button_b" href="/web/20140108073506/http://velocityindiana.org/about/workspace">Plans &amp; pricing</a></p>
+					</div>
+				</div>
+				<div id="acceleratorProgram" class="offering clear tabContainer">
+					<h2 style="text-align:center;">Program Details</h2>
+										<p class="leadText">The teams at Velocity will take part in a program based on the Lean LaunchPad approach to building startup companies.</p>
+					<div id="programSpot" class="spot">
+						<img src="http://web.archive.org/web/20140108073506im_/http://velocityindiana.org/wp-content/themes/velocity/img/spot-program.png"/>
+					</div>
+					<div class="largeOneThird">
+
+						<h3>Crafting a Hypothesis</h3>
+						<p>Teams will apply the scientific method to their business model by breaking it down into an individual hypothesis</p>
+					</div>
+					<div class="largeOneThird">
+						<h3>Test &amp; Experiment</h3>
+						<p>Teams will build a simple and inexpensive experiment. Then we <em>get out of the building,</em> talking to customers &amp; partners to test &amp; validate our assumptions.</p>
+					</div>
+					<div class="largeOneThird">
+						<h3>Response &amp; Iteration</h3>
+						<p>If (&amp; when) the hypothesis fails, we pivot the business model and repeat the process until the entire model is proven; no longer based on extensive assumptions.</p>
+					</div>
+					<div class="leanLaunchpadCallout">
+						<h3>About the Lean Launchpad</h3>
+						<p>Popularized by Steve Blank, The Lean LaunchPad is taught at Stanford, UC Berkley and other Universities across the US. It has been applied to accelerator programs, the NSF, intrapeneurship programs, as well as high school and middle schools students. The approach enables a startup to build and validate that they have a viable business model before they attempt to build and scale a company. This is done using Alexander Osterwalder’s Business Model Canvas as the means to document the model. It further employs Blank’s Customer Development approach to translate business model assumptions into facts by running experiments.</p>
+						<p>This approach is not a one size fits all approach. It is applied in a different and unique way to each company, depending on their industry, level of development and experience. It is also not a prescriptive methodology, but rather a general approach that applies the principles learned over the past two decades on how to build successful, scalable companies.</p>
+					</div>
+
+				</div>
+			</div>
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+	</div><!-- #main -->
+	<section id="sectionLast">
+			<footer id="contact" class="pageWidth">
+				<div class="largeOneHalf">
+					<p class="site-title">Velocity</p>
+					<p>400 Missouri Avenue<br/>
+						Jeffersonville, IN — <a href="http://web.archive.org/web/20140108073506/https://maps.google.com/maps?q=400+Missouri+Ave,+Jeffersonville,+Clark,+Indiana+47130&amp;hl=en&amp;sll=38.275791,-85.750232&amp;sspn=0.034903,0.06918&amp;t=h&amp;hnear=400+Missouri+Ave,+Jeffersonville,+Indiana+47130&amp;z=16">View Map</a><br/>
+						812.624.1201<br/>
+						<a href="http://web.archive.org/web/20140108073506/mailto:info@velocityindiana.org">info@velocityindiana.org</a></p>
+						<div class="socialIcons">
+						<a href="http://web.archive.org/web/20140108073506/https://www.facebook.com/VelocityIndiana"><img src="http://web.archive.org/web/20140108073506im_/http://velocityindiana.org/wp-content/themes/velocity/img/Facebook.png" alt="Facebook"/></a>
+						<a href="http://web.archive.org/web/20140108073506/https://twitter.com/VelocityIN"><img src="http://web.archive.org/web/20140108073506im_/http://velocityindiana.org/wp-content/themes/velocity/img/Twitter.png" alt="Twitter"/></a>
+						<a href="http://web.archive.org/web/20140108073506/http://www.linkedin.com/company/velocity-indiana-inc-"><img src="http://web.archive.org/web/20140108073506im_/http://velocityindiana.org/wp-content/themes/velocity/img/LinkedIn.png" alt="LinkedIn"/></a>
+					</div>
+				</div>
+				<div class="largeOneHalf">
+
+					<!-- Begin MailChimp Signup Form -->
+					<link href="//web.archive.org/web/20140108073506cs_/http://cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+					<style type="text/css">
+						#mc_embed_signup{background:#fff; margin: 60px 0 20px; border-radius: 5px;clear:left; font:14px Helvetica,Arial,sans-serif; }
+						#mc_embed_signup form{padding:0; padding:15px}
+						#mc_embed_signup input.email{width:100%; margin: 0 0 10px 0;}
+						/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+						   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+					</style>
+					<div id="mc_embed_signup">
+						<form action="http://web.archive.org/web/20140108073506/http://velocityindiana.us7.list-manage.com/subscribe/post?u=76ffe343f6a924f874adc820e&amp;id=428d1a628c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+							<label for="mce-EMAIL">Subscribe to our mailing list</label>
+							<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+						    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+						    <div style="position: absolute; left: -5000px;"><input type="text" name="b_76ffe343f6a924f874adc820e_428d1a628c" value=""></div>
+							<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+						</form>
+					</div>
+
+					<!--End mc_embed_signup-->
+					
+				</div>
+			</footer><!-- END #contact -->
+        </section>
+    </div><!-- #page -->
+<script src="//web.archive.org/web/20140108073506js_/http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://web.archive.org/web/20140108073506/http://velocityindiana.org/wp-content/themes/velocity/js/vendor/jquery-1.9.0.min.js"><\/script>')</script>
+
+
+<script type="text/javascript" src="http://web.archive.org/web/20140108073506js_/http://velocityindiana.org/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.46.0-2013.11.21"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/web.archive.org\/web\/20140108073506\/http:\/\/velocityindiana.org\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://web.archive.org/web/20140108073506js_/http://velocityindiana.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.6"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140108073506js_/http://velocityindiana.org/wp-content/themes/velocity/js/navigation.js?ver=20120206"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140108073506js_/http://velocityindiana.org/wp-content/themes/velocity/js/skip-link-focus-fix.js?ver=20130115"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140108073506js_/http://velocityindiana.org/wp-content/themes/velocity/js/Eventbrite.jquery.js?ver=20130115"></script>
+
+</body>
+</html><!--
+     FILE ARCHIVED ON 07:35:06 Jan 08, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:53:01 May 25, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.633
+  exclusion.robots: 0.042
+  exclusion.robots.policy: 0.031
+  esindex: 0.01
+  cdx.remote: 67.15
+  LoadShardBlock: 287.246 (3)
+  PetaboxLoader3.datanode: 316.005 (4)
+  PetaboxLoader3.resolve: 363.702 (2)
+  load_resource: 531.056
+-->

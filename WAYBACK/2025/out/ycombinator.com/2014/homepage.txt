@@ -1,0 +1,149 @@
+Y Combinator
+The Wayback Machine - http://ycombinator.com/
+"The most prestigious program for budding digital entrepreneurs"
+The application deadline was March 28 but you can still
+apply late
+.
+Breakthrough Technologies
+: New RFS.
+In 2005, Y Combinator developed a new model of startup funding.
+Twice a year we invest a small amount of money ($120k) in a
+large number of startups (most recently 68).  The startups move to
+Silicon Valley for 3 months, during which we work intensively with
+them to get the company into the best possible shape and
+refine their pitch to investors.  Each cycle culminates in
+Demo Day
+, 
+when the startups present their business plans to a carefully
+selected, invite-only audience.
+But YC doesn't end on Demo Day.  We and the YC alumni network
+continue to help founders for the life of their company, and beyond.
+Since 2005 we've funded over 630 startups, including
+Reddit
+,
+Loopt
+,
+Clustrix
+,
+Wufoo
+,
+Scribd
+,
+Xobni
+,
+Omgpop
+,
+Weebly
+,
+Dropbox
+,
+Disqus
+,
+Songkick
+,
+WePay
+,
+Twitch
+,
+Heroku
+,
+A Thinking Ape
+,
+Machine Zone
+,
+Cloudant
+,
+Airbnb
+,
+Cloudkick
+,
+Stripe
+,
+Mixpanel
+,
+Listia
+,
+RethinkDB
+,
+Cardpool
+,
+Optimizely
+,
+MemSQL
+,
+Docker
+,
+AeroFS
+,
+Homejoy
+,
+E la Carte
+,
+PagerDuty
+,
+Hipmunk
+,
+Pebble
+,
+FiveStars
+,
+Parse
+,
+Meteor
+,
+Rap Genius
+,
+Codecademy
+,
+SocialCam
+,
+42Floors
+,
+iCracked
+,
+Rescale
+,
+LendUp
+,
+ZenPayroll
+,
+Grouper
+,
+Clever
+,
+Coinbase
+,
+Instacart
+,
+Thalmic
+,
+Airware
+,
+Zenefits
+,
+and
+Teespring
+.
+Learn more
+News
+|
+Apply
+|
+What We Do
+|
+Blog
+|
+People
+|
+Jobs
+|
+Quotes
+|
+FAQ
+|
+School
+|
+Contact
+|
+Lib
+Google+

@@ -1,0 +1,708 @@
+9Mile Labs
+The Wayback Machine - http://www.9milelabs.com/
+About Us
+Overview
+In The Media
+Process
+Program Perks
+FAQ
+Portfolio
+Mentors
+Mentor List
+Mentor Portal
+Sponsors
+Get Involved
+Blog
+Apply
+Building a World-Class Startup Community
+in the Pacific Northwest
+Learn More
+Cohort Sponsor
+Latest News & Events
+*FINAL APPLICATION DUE*
+Monday, 6/16 (midnight)
+CLICK TO APPLY
+About Us
+9Mile Labs is a high-tech accelerator based in Seattle, WA, focused on B2B software and cloud technologies
+Our program is a little over 4 months in length and we accept up to 9 startups at a time. During the program, startups receive the following:
+1
+Funding
+A $35,000 pre-seed investment in exchange for 8% of the startup’s equity.
+2
+Mentoring
+A diverse network of mentors who can help provide counsel and connections to the startups.
+3
+Environment
+State-of-the-art workspace in Pioneer Square surrounded by coffee shops, restaurants and other startups.
+4
+Connections
+Networking and social events run by 9Mile during the program.
+5
+Audience
+An opportunity to present to VCs, angel investors, and mentors throughout the program and at our demo day, called Milestone9.
+Tom Casey
+, Advisor
+Tom is an experienced executive, entrepreneur, active investor and advisor for technology companies. In addition to being a co-founder and active advisor at 9Mile Labs, Tom is currently VP of Platform & Infrastructure at Apptio. Prior to Apptio, Tom was a Corporate Vice President at Microsoft and led the development of many enterprise applications and systems. Tom began his career in small startups in the Seattle area and loves helping Pacific Northwest companies grow.
+Kevin Croy
+, Partner
+Kevin is the consummate serial entrepreneur who has co-founded five startups, two of which (Lostpedia, Jupiter Hosting) have had successful exits. Kevin is a technologist and enterprise architect with hands-on experience in a broad range of Internet technologies, data center infrastructure, and development tools. Kevin holds an MBA.
+Enrique Godreau III
+, Advisor
+Enrique has been active in information technology for 30 years. He’s worked with great people at leading technology-based companies including Adobe, Gartner, and Xerox PARC. In 1996, he cofounded Voyager Capital, an early-stage tech venture capital firm. In 2012, he cofounded GSharp Ventures, a consulting, investment, and advisory firm. Enrique holds a BS in Computer Science.
+Caitlin Goetze
+, Program Manager
+Caitlin is an ambassador for the startup community, previously working at the Northwest Entrepreneur
+Network (NWEN) as Assistant Director. She has managed events and programs throughout the Seattle area, focusing on empowering entrepreneurs through this strong community network. Caitlin looks forward to facilitating connections for hungry entrepreneurs.
+Sanjay Puri
+, Partner
+Sanjay started his career building database applications at Oracle. Sanjay co-founded thinkIndia.com in 1999 which exited successfully in 2001. As a products executive at startups (iConclude, Opsware, Edifecs) and large companies (Microsoft and HP), Sanjay has helped companies achieve successful exits and exceptional revenue growth. Sanjay holds a B.S. in Electrical Engineering and an MBA.
+Sandy Sharma
+, Partner
+Sandy is a serial entrepreneur and passionate angel investor. Sandy has co-founded and successfully led 4 technology companies. He currently serves as Executive Chairman of Advaiya, a strategy and business development firm and is President of TiE Seattle. Sandy is also an active advisor for multiple startups in the NW and CA. Sandy holds a BS in Computer Science and an MBA.
+In The Media
+April 2, 2014
+Press Release: PARC Sponsors 9Mile Labs to Turbocharge B2B Startups
+November 4, 2013
+Press Release: 9Mile Labs Secures Funding to Boost Support for B2B Startups
+September 10, 2013
+Meet the 9 startups from B2B incubator 9Mile Labs
+September 10, 2013
+9Mile Labs: First Demo Day and Research on Accelerator Effectiveness
+March 19, 2013
+Big turnout for business startup accelerator 9Mile Labs
+March 19, 2013
+Meet the 9 startups joining the new 9Mile Labs accelerator
+March 19, 2013
+Accelerator 9Mile Labs Names Initial Class of B2B Startups
+February 14, 2013
+9Mile Labs sets up new accelerator at SURF Incubator
+February 14, 2013
+Press Release: 9Mile Labs and SURF Incubator Join Hands to Boost Ecosystem
+January 31, 2013
+B2B startup accelerator 9Mile Labs taps Microsoft VP, veteran VC to lead the charge
+January 31, 2013
+Casey, Godreau join startup accelerator 9Mile Labs
+January 31, 2013
+Press Release: 9Mile Labs Steps up Momentum by Expanding Partner Team
+January 2, 2013
+New accelerator 9Mile looks to help jumpstart B2B startups
+January 2, 2013
+New Seattle Accelerator 9Mile Labs Wants To Build On TechStars Model
+Process
+Our process is simple and straight forward.  Here's how it works.
+r
+Apply
+If you have an idea for a business-to-business (B2B) startup or have already started working on one, you should
+apply
+. What is B2B? It means that your primary customer is another company, not an individual.
+l
+Qualify
+Once we receive your application, we’ll evaluate it based on the 9Mile Success Framework. We will ping you if we have questions and call you in for a face-to-face meeting as appropriate.
+b
+Engage
+After you join the program, you’ll interact with a network of mentors and with other co-founders who will serve as your community of peers. We will guide you on a daily basis to help you build a comprehensive business.
+(
+Build
+Once you’re accepted into the program, we’ll set you up with a place to work, a small stipend to pay your bills, and introduce you to some people who will help you get your idea off the ground.
+*
+Graduate
+At graduation you get the opportunity to demonstrate your product at the 9Mile Labs Demo Day. Here you get to present your idea to an audience of venture capitalists, angel investors, and mentors.
+Cohort III Schedule
+Program Perks
+Hosting
+$10,000 in AWS Credits, Access to Solution architects, Training, Premium Business Support
+$5,000 per month in Windows Azure credits per month for 12 months, 3 years of free software, support & visibility
+Software
+12 Months of free access to the LiquidPlanner project management platform
+Free secure document storage until next formal financing event
+Intellectual Property
+Access to intellectual property assets, technical mentoring, and rapid prototyping infrastructure to selected startups.
+Discounted or free provisional patent preparation.
+Banking
+Free Business Banking offer, Local personalized support.
+Office Space
+Discounted office space upon completion of the 9Mile Labs program.
+FAQ
+What types of businesses does 9Mile Labs focus on?
+9Mile will accept
+applications
+for B2B-focused businesses. What does B2B mean? It implies that your primary customer is another company, not an individual consumer.
+How much funding do companies in the 9Mile Labs program receive?
+Each startup receives $35,000 in funding at the beginning of the program.
+What else does a startup receive as part of the 9Mile Labs program?
+Startups receive access to our wide network of mentors and advisors who have extensive startup, technology, business, and functional experience. Startups also get great perks such as free workspace, internet access, and hosting from both Amazon and Microsoft.
+At the end of the 9Mile Labs program, the startups in the program have the opportunity to showcase their businesses to corporate customers, investors, industry influencers, friends and family at Milestone9 (the 9Mile Labs Demo Day).
+What does 9Mile Labs receive from the startups?
+9Mile Labs receives 8% equity in the form of Common Stock. Common Stock implies that no board seats, unusual voting rights, veto rights, or other controls are granted to 9Mile Labs.
+Who are the 9Mile Labs mentors?
+A complete list of 9Mile Labs mentors with short bios can be found on the Mentors page.
+The 9Mile Labs mentors come from a cross-section of the high-tech industry. A majority of the mentors are successful entrepreneurs, CEOs, and business veterans from the startup world. Many are executives from the high-tech business world who have excelled in an executive or functional capacity. Yet others are VCs and angel investors who have worked extensively with startups.
+How are startups assigned mentors?
+Right after the start of the application process, 9Mile Labs will organize one or more networking events to allow the startups to network with the mentors. These events will be scheduled both before and after the final cohort is selected. This allows all startups to interact with the mentors, regardless of their selection status into the 9Mile Labs program.
+In addition to the networking events, the partners in 9Mile Labs will conduct many face-to-face meetings with startups leading up to their selection into the cohort. This will allow the 9ML partner team to get a very good idea about areas of strength and those needing help.
+The combination of the informal networking and the gap assessment by the 9ML partners will be utilized to assign mentors to the companies.
+How do startups get funded after the 9Mile Labs program ends?
+9Mile Labs provides you a stipend of $35,000 that is meant to sustain your for the duration of the program. 9Mile Labs will start introducing you to investors, including VCs, angels and angel investing organizations, around the mid-point of the program. To prepare you for these meetings, 9Mile Labs, along with the mentors, will coach you to help you secure your next round of funding.
+I believe I’m too far along to benefit from 9Mile Labs. Should I apply?
+Your startup is not too late to
+apply
+if you believe you can benefit from:
+Dedicated coaching and mentoring from a world-class set of entrepreneurs and professionals.
+A community of B2B startups working and building together.
+A guided and focused push to discover the product-market fit by applying customer development and lean startup methodologies.
+Do I have to work out of the 9Mile facilities for the entire 4 month period?
+Yes, we expect all startups in the program to work from the 9Mile Labs facilities for the 4 months of the program.
+We believe that one of the greatest benefits from the 9Mile Labs program is the cross-pollination of ideas and strategies among the startups in the program. In addition, the value of the daily mentoring and coaching from the experienced 9Mile team further improves your odds of success.
+Do I have to stay Seattle when the program ends after 4 months?
+No. It’s your company, so you can run it from the location that best suits your needs.
+Tell me more about the networking and educational opportunities.
+9Mile Labs will organize dinners and networking events on a fairly regular basis and invite our mentors to speak on a relevant topic. These will be presented as appropriate by highly-successful entrepreneurs, angel investors, legal experts, venture capitalists, investment bankers, etc. Sometimes, we’ll just organize a brief talk with Q&A by a CEO or CTO of a well-known local startup. We may even venture out to some of these companies and do a session there. All of these sessions will be very informal and give you plenty of time to interact with the mentors personally.
+What if my company doesn’t ultimately succeed?
+Entrepreneurship is a marathon, not a sprint. Remember, raising the next round of funding at Demo Day is not a guarantee of a successful exit. Similarly, failure to raise the next funding round does not mean that you will never succeed at getting an exit. We promise you that the sheer learning you will gain and the number of doors this program will open for you will be well worth the effort.
+You’ve probably heard that only 1 in 10 startups ever get an exit. All we’re trying to do is systematically improve those odds of success through right coaching and mentoring in the formative stages of your startup.
+How do you choose which companies to accept into the program and to fund?
+We look for few things in the startups we work with:
+A solid team (typically we won’t accept individuals) of 2-3 co-founders–at least 1-2 of these people will be technical.
+A significantly large target market with adequate head-room for growth.
+A well-thought out hypothesis for the business model that is articulated using the Business Model Canvas.
+The potential to build a sustainable advantage over competitors.
+Do I need to send in a business plan?
+No.  Just fill out our online
+application
+.
+When do I apply?
+Applications
+to 9Mile Labs are always open. Our intent is to maintain dialog with entrepreneurs throughout the year, irrespective of program timelines. Your responses on the application provide us a good starting point to initiate that conversation. Of course, you should feel free to update your application as things change.
+What happens after I submit the application?
+After we receive your
+application
+, we run it through our proprietary 9Mile Success Framework. This framework allows us to conduct our assessment in a fair and rational manner.
+If we like your application, we’ll invite you for one or more face-to-face (preferably, or online if you’re remote) meetings regarding your business.
+Before the program starts, we will organize a few networking and social events for you to interact with the rest of your cohort and with mentors.
+Cohort II
+3D Product Imaging
+3D Product Imaging allows online brands and retailers to create photo-realistic, high-fidelity 3-dimensional images of products thereby helping to improve sales conversion rates and reduce returns.
+Video Link
+Angles Media
+Angles Media helps businesses close more sales by delivering the right content to the buyer with the highest likelihood of influencing the sale.
+Video Link
+Cloudadmin
+Cloudadmin is a cloud-based inventory management and order management system specially designed for SMBs in Latin America.
+Video Link
+Connect Consignment
+Cloud e-commerce software, enabling resale and consignment businesses to; Sell anything, to anyone, anywhere.
+Video Link
+Engineroom360
+Engineroom360 helps small and mid-size online retailers, utilizing hosted platforms, to create online promotions and improve discoverability of products on their websites.
+Video Link
+Ghostruck
+Ghostruck is a ridesharing solution for moving trucks that connects moving trucks with consumers who need a truck for moving bulky items.
+Video Link
+GreenKrate
+GreenKrate delivers grocery items to consumers and small businesses thereby saving them time.
+No video posted
+.
+Pawzii
+Pawzii delivers automated software solutions for animal shelters to free up human capital, generate new types of revenue, and bring focus back to what’s most important: saving animal lives.
+Video Link
+Theme Dragon
+Theme Dragon helps marketers in SMB’s make smarter video marketing decisions through actionable recommendations and intelligent data. It supports them from planning and production to measuring results.
+Video Link
+Cohort I
+Airometric Wireless
+Wireless analytics from over the air down to the application.
+AMP Tablet Solutions
+Streamlining sales by connecting mobile sales reps to the supply chain.
+Appuri
+Capture all customer data. Connect everything.
+CadenceMD
+Helping physicians improve efficiency and patient satisfaction.
+Comr.se
+Crunching sales and social data to power agile commerce.
+GIVINGtrax
+Enabling organizations to manage and promote their giving efforts.
+MeritShare
+Online recognition to help companies motivate their employees (acquired by TerryBerry in Nov 2013).
+Ombitron
+Machine-to-Machine Platform as a Service. Easy. Open. Wireless.
+SpinRiot
+Build multimedia content once, display seamlessly across multiple devices.
+Mentors
+Rob Adams
+XTT Consulting, LLC
+More Info
+Rob spent a decade in Cisco’s M&A team, leading technical diligence, leading corporate technology strategy and managing Cisco’s investment portfolio. Rob has extensive experience mentoring startups on strategy including, technology, go to market, insertion, and talent as well as operations and the art of the pitch.
+Lindsay Andreotti
+CEO at Brilliance Enterprises
+More Info
+With over 20 years of Sales, HR and Organizational Development experience, Lindsay has assisted in the start, growth, and development of over 200 companies, small and large, in public, private, and non-profit arenas. With a passion for coaching conscious leaders who want to “play to win” rather than “playing not to lose”, Lindsay has focused her attention on the systems and psyche of the human side of business to create significant results.
+Oudi Antebi
+Sr. Vice President, Product Management and Design at Jive Software
+More Info
+Oudi is currently SVP of Product Management at Jive Software. Oudi co-founded OffiSync which was eventually acquired by Jive. Oudi has extensive experience in management and development of innovative technology solutions and teams, strategic deals, partnerships, and fund raising.
+Frank Artale
+Managing Director at Ignition Partners
+More Info
+Frank focuses on investing in virtualization, storage, database, and cloud computing. Frank has served as director and advisor to many startups. He has held operational roles, was GM at Microsoft, VP at Citrix, CEO at Consera, and VP at Xensource.
+Bobby Bakshi
+Lead Trainer & Org Development Consultant at Edifecs
+More Info
+Bobby brings love to business.  He works with leaders and teams to live their values and mission through their culture by integrating individual values/strengths with the desired business results, Bobby strikes a happy balance.  Before Edifecs, Bobby was the segmentation subject matter expert at Microsoft.  Bobby is also the Chief Inspiration Officer of Resonant Insights, his boutique consulting firm focused on organizational culture and branding.
+Neal Bernstein
+Senior Director at Microsoft
+More Info
+Neal currently leads Microsoft’s local & mobile advertising products business strategy, business operations, and strategic partnerships. Prior to this, he did the same for Microsoft’s mobile search, local search, maps, and MSN businesses. Before Microsoft, Neal founded two start-up companies and led them through fund-raising, execution, and exits. And prior to these start-ups, Neal held a variety of sales, marketing, finance and product roles at IBM, where among other roles, he launched IBM’s voice recognition offerings.
+Ash Bhoopathy
+co(Labs) entrepreneur at Sequoia Capital
+More Info
+Ash Bhoopathy is a Designer/Hacker/Prototyper in Residence.  He runs a small consulting company called Lizi Labs that works with Venture Capital companies and Series A funded portfolio companies to focus on Design, User experience, and Growth engineering.  In the past, Ash and his team has worked on various startups of their own in the Edtech and Consumer internet markets.   He’s spoken at conferences such as SXSW on data and design decision making.
+José A. Blakeley
+Partner Architect - Data Warehousing Product Unit - SQL Server at Microsoft
+More Info
+Specialties:All aspects of database software development, design, and architecture.
+Adam Bogobowicz
+Sr. Director of Product Marketing at Parallels
+More Info
+Adam leads Automation, Panel and Infrastructure product marketing at Parallels, a cloud enablement software company supporting needs of SMBs through the service provider channel. Prior to Parallels, Adam
+spent 11 years at Microsoft, responsible for product marketing in Server and Cloud Group with primary focus on virtualization technologies.
+Eric Brodersen
+Senior Vice President at EMC²
+More Info
+With EMC², and during prior roles with Isilon Systems, Quantum and ADIC, Eric has led global sales and marketing organizations, spearheaded product development initiatives, built alliance, OEM & technical partnerships, driven corporate & divisional M&A strategy, and honed a focus on achieving rapid scale in enterprise systems and software markets
+Anders Brown
+Managing Director, Radius Inc.
+More Info
+Mr. Brown is currently Managing Director at Radius Inc., a next-generation technology consulting company focused on the Internet-of-Things based in Seattle, Washington. Mr. Brown launched Radius after serving as Sr. Vice President at iSoftStone (NYSE:ISS), a global consulting and IT outsourcing company based in Beijing, China.
+Bill Bryant
+Founder & Chairman at Airworks
+More Info
+Bill Bryant has had early and instrumental involvement in over 25 leading software, Internet, digital media and mobile companies, as a founder, senior executive, investor and Board Member.  Companies include
+Visio, Netbot, Qpass, Medio, Isilon, Swype, Winshuttle, Ping Identity, Jabber, Opscode and Z2Live.  He is a Partner with Draper Fisher Jurvetson.
+Amy Buckalter
+Toaster Labs, Inc. Founder & CEO
+More Info
+Toaster Labs, Inc is all about “Popping up New Products worth Slathering with Investment”.
+Currently, the company is developing their first entry into the market. Although still in stealth mode, we can offer a little teaser for you, but not much more than that. Our product will be creating an entirely new category for the wellness & personal care space, a multi billion dollar industry that promises our target consumers will not only be delighted with this new innovation, but ecstatic. Stay tuned!
+If you’re an investor, contact me now, you’ll want to be in the know about this opportunity.
+Jason Bunge
+Senior Director at Microsoft
+More Info
+Jason is Senior Director of Internet Services Marketing and e-Commerce at Microsoft where he’s responsible for Office 365 consumer and small business offerings. Jason has over 14 years of marketing and leadership experience across B2B and B2C companies including Microsoft, Compaq and J&J.
+Chandan Chauhan
+Co-Founder & SVP at Intelius
+More Info
+Chandan Chauhan is a co-founder and Senior Vice President of Product Management at Intelius.com. Previously Mr. Chauhan held several senior management positions at Microsoft Corporation in the Windows Operating System and MSN divisions. He was the founding development manager of Microsoft’s first internet application, CarPoint. He holds a patent for digital representation of still images for data transfer.
+Digvijay Chauhan
+Co-founder and CEO at SeeYourImpact
+More Info
+Digvijay co-founded SeeYourImpact.org, a funding platform to create & celebrate impact through storytelling. Previously, Digvijay was co-founder and CTO of AskMe Corporation, a web based expertise sharing company started in 1999. Prior to AskMe, Digvijay was the Development Head of Internet Explorer / Unix team and served as Group Manager for the DCOM/Unix product.
+"JG" Chirapurath
+Senior Director at Microsoft
+More Info
+JG is currently responsible for product planning, strategy, and roadmap for Microsoft’s data platform. Prior to Microsoft, JG was co-founder, board member, and VP of marketing for a web services infrastructure company Sarvega, which was acquired by Intel. JG holds a Masters in Computer Science from the University of Maryland and an MBA from the University of Chicago.
+Zachary Cohn
+Founder at Wonful
+More Info
+Zac loves making things happen, and teaching others to do the same. He’s currently the founder at Wonful, which is working with enterprise companies and the State of Washington to teach them about customer development, lean startup, and help them build products like a startup. He’s become a seasoned veteran of early stage business creation and customer development through similar work as a Partner at LIFFFT and while working for Startup Weekend at their headquarters in Seattle. When he’s not changing the world through entrepreneurship, he’s training parkour and doing backflips, traveling the world, and running events all over Seattle.
+John DeVadoss
+General Manager, Enterprise Strategy at Microsoft
+More Info
+John has spent over 13 years at Microsoft in different roles. He has been a program manager in the distributed applications platform division, an architect working with some of Microsoft’s key partners, director of architecture strategy leading technical strategy for the all-up application platform, and most recently an engineering manager for patterns & practices.
+Deepak Dhawan
+Wireless and Technology Executive
+More Info
+Deepak is a seasoned executive with deep strategic, operating, and general management roles in wireless telecom and adjacent technology space. Deepak’s past roles have included SVP, Solutions and Services at Motricity and VP of Marketing at Real Networks.
+Tolis Dimopoulos
+Outsourced General Counsel to Startups
+More Info
+Tolis is the Founder and Managing Attorney at Sophos Law, a startup and technology legal services company. He has expertise in entity selection and formation; founder, employee, and investor equity, securities compliance and financings; and business development arrangements. Tolis has a JD from University of Richmond as well as engineering and business degrees.
+Denise Draper
+Freelance Consultant
+More Info
+Denise is currently a freelance consultant, specializing in working with startups on product strategy and dealing with growth.  Denise was responsible for the startup/turnaround of three small product teams during her eight years at Microsoft (one of those small products is the world’s most-used ETL product).  Prior to that, Denise was CTO of the Seattle-area startup Nimble Technology.   Denise’s interests include new economic models and designing ecosystems (and any other sort of networked behavior), but always with the value prop for the customer as a firm foundation.
+Michel Feaster
+Co-Founder & CEO, Usermind
+More Info
+At Usermind, Michel is responsible for company vision, strategic direction, planning and execution. Prior to that, Michel was VP of Products at Apptio where she led product management, product marketing, field enablement, and strategy. Michel also led product management and marketing for HP Software’s data center automation products.
+Wain Fishburn, Jr.
+Partner at Cooley LLP
+More Info
+Wainwright Fishburn, Jr. is a partner of Cooley LLP, a prominent venture capital attorney, and chair of the firm’s Digital Health group. He represents a broad cross-section of digital health companies including, among others, AliveCor, AwarePoint and Misfit Wearables. He is on the Board of the Critical Path Institute, a public-private partnership created in part by the FDA and is a co- founder of seven companies, two of which are public.
+Brent Frei
+Founder and Executive of Smartsheet
+More Info
+Before co-founding Smartsheet, Brent was EVP at Intellectual Ventures. Prior to that, Brent was the CEO and co-founder of Onyx Software Corporation, a Bellevue-based customer relationship management (CRM) software company.
+Jeff Gerber
+Enterprise Platform Architect at Apptio
+More Info
+Before the hottest B2B startup coming out of Seattle, Jeff served as CTO of HP’s Business Service Automation division. Prior to that, he was the founder and chief architect at iConclude, which was acquired by Opsware in 2007. He also served as architect at Mercury Interactive and director at Performant, which was acquired by Mercury Interactive in 2003.
+Jamie Gier
+VP of Corporate Marketing at Edifecs
+More Info
+Jamie is VP of Corporate Marketing at Edifecs, a healthcare IT company. She has held various positions in brand strategy, marketing communications and public relations at several private high-growth technology companies as well as Microsoft and GE Healthcare. She also has M&A experience, leading marketing integration for two major acquisitions: GE Healthcare/IDX and Microsoft/Sentillion.
+Anoop Gupta
+Distinguished Scientist at Microsoft Research
+More Info
+Anoop’s most recent research focuses on communication, collaboration, and natural user interfaces. Anoop was Bill Gates’ technology assistant for 3 years after which he took on various executive roles for seven years. Prior to Microsoft, Anoop spent 11 years as a professor of computer science and electrical engineering at Stanford University.
+Anupam Gupta
+President and CEO of Mixpo
+More Info
+Anupam currently leads the overall vision and strategy as CEO at Mixpo, a self-service online video ad platform for media companies, brand advertisers, and agencies. Anupam also worked at MSN for eight years, where he led customer acquisition, product management, and marketing.
+Manoj Gupta
+Director, Business Development at Microsoft
+More Info
+Manoj is a strategic business development executive with over 16 years of global experience spanning a wide variety of complex deals including strategic sales, strategic alliance, in-bound IP licenses, joint ventures, mergers, acquisitions, and divestitures.
+Sunny Gupta
+Founder and CEO of Apptio
+More Info
+Sunny is a proven serial entrepreneur and is currently leading Apptio, one of the most innovative enterprise software startups in the country. Prior to Apptio, Sunny founded iConclude which was acquired by Opsware and later by Hewlett Packard. He also co-founded Performant, which was acquired by Mercury Interactive.
+Ted Hasse
+Attorney for IP matters at Morrison & Foerster
+More Info
+Ted Hasse is an attorney at Morrison & Foerster’s San Francisco office who also has experience co-founding successful start-ups. Mr. Hasse’s practice involves a wide range of intellectual property matters for tech companies of all sizes. He was recently honored with a 2013 California Lawyer Attorney of the Year Award.
+Dan Hay
+CEO at isoutsource.com
+More Info
+CEO of isoutsource.com, a provider of IT services to SMB companies, Dan has over twenty five years of experience in the high-tech industry. Dan worked at Microsoft in product management in the developer tools and office divisions. He also founded a firm focusing on ERP consulting and custom application development.
+Matt Heinz
+President at Heinz Marketing Inc
+More Info
+Matt is the President of Heinz Marketing, an agency focused on sales acceleration. He has helped such companies as HouseValues and Payscale achieve remarkable sales growth. Prior to Heinz Marketing, Matt held a variety of roles at Microsoft, Weber Shandwick, Boeing, Seattle Mariners, Market Leader, and Verdiem.
+George Huang
+Associate at Madrona Venture Group
+More Info
+At Madrona, George works on identifying and investigating new investment opportunities and is closely involved with Madrona’s portfolio companies. Prior to joining Madrona, George was an analyst in technology investment banking at Morgan Stanley. George holds a B.S. in Economics from the Wharton School of the University of Pennsylvania.
+Eyal Inbar
+General Manager of Unify Square, Inc.
+More Info
+Eyal is GM of World-Wide Marketing at Unify Square. Prior to this, he ran the applications portfolio at NEC. Among other roles at Microsoft, Eyal led marketing campaigns and initiatives for Unified Communications. Eyal is also the founder of Performance Point, a financial-technology startup, focusing on online investment management.
+Bobby Jadhav
+CEO of Spotzot
+More Info
+Bobby is co-founder and CEO of SpotZot which is a mobile shopping and advertising platform that enables campaign creation for retailers using data from 1000+ retail chains and 30M mobile shoppers across 200 markets. Prior to SpotZot, Bobby was a CTO and Architect at a several startups.
+Peter Johnson
+Chairman of Annai Systems
+More Info
+Prior to Annai Systems, Peter was co-founder, President and CEO of Agouron Pharmaceuticals, Inc. Propelled by its successful anti-HIV drug Viracept and a deep R&D pipeline, Agouron was acquired by Warner-Lambert in 1999 for $2.1 billion and later became a subsidiary of Pfizer in 2000.
+Jeff Jones
+Director at Microsoft
+More Info
+Named in 2011 as one of
+25 Most Powerful Voices in Security
+, Jeff Jones is a 25-year security professional helping drive security progress at Microsoft.  Previously, Jeff was the vice president of product management at Network Associates where his responsibilities included the McAfee, PGP, Gauntlet and Cybercop product lines.
+Robert Kapela
+Founder and President at Telrex
+More Info
+Robert is a serial entrepreneur and active Angel investor. He is also a mentor for TechStars Seattle, the Microsoft Kinect Accelerator and for a number of local startups. Previously, Robert was the founder of Telrex which was acquired in 2010 by Enghouse (ESL). Prior to founding Telrex, he was a vice president at Marketwave Software. Marketwave was acquired in 1999 by Accrue Corporation. Robert has over 20 years of start-up experience.
+Dan Karr
+Managing Director at Karr Consulting PLLC
+More Info
+Dan has a broad background in investment management and technology industries, responsible for financial strategy, operations management, internal control and executing on key strategic business objectives.  Previously, Dan was Controller at Ignition Partners where he managed treasury, valuation, investor reporting, audit and tax functions.  Dan is a CPA in Washington State and has an MBA from the University of Washington.
+Bob Kelly
+Vice President at Microsoft
+More Info
+Bob oversees Microsoft’s business and marketing strategy for Windows Azure. Prior to this role, Bob has been instrumental in growing the Windows Server business from a relatively new product to a market leader–helping to shape Microsoft’s $15 billion server and tools business.
+Ted Kummert
+Venture Partner at Madrona Venture Group
+More Info
+Ted joined Madrona in 2013 and brings years of technical and operational leadership in enterprise technology at Microsoft to Madrona and the portfolio companies. Widely known as the “data chief” of Microsoft, he led the data platform business through a period of significant growth and drove the cloud and big data strategy for the platform.
+Conrad Lee
+Mayor of the City of Bellevue, WA
+More Info
+Mayor Lee was elected Mayor of Bellevue in 2011. Mayor Lee is a huge believer in the Bellevue’s strength and potential as a technology hub that is competitive–not just in the Northwest, but for all of the United States.
+Ying Li
+Chief Scientist and Co-Founder at Concurix
+More Info
+Dr. Li is a leading practitioner in big data and large-scale knowledge discovery, data mining and analytics, recognized with the ACM SIGKDD Service Award in 2012. Dr. Li is a pioneer in Internet scale data mining, applying her extensive academic and industry research expertise at the Computer Research Institute of Montreal and in the first big data analytics effort at Microsoft in 1998. She has continued to advance the field in subsequent years, building state of the art technologies in data mining, machine learning, information retrieval, computational advertising, internet monetization, business intelligence, online privacy, and personal data. She has over 70 patents filed and granted, has collaborated with over 100 researchers and data scientists, and has built and led world class data mining organizations of over 300 people.  Dr. Li received B.Sc. and M.Sc. in Mathematics from Peking University, Beijing, China, and Ph.D. in Computer Science from the University of British Columbia, Vancouver, Canada. She is currently the Chief Scientist and Co-Founder of Concurix Corporation, a new startup building high performance operating systems for big data and big compute.
+Michael “Luni” Libes
+Founder and Managing Director at Fledge.co
+More Info
+Michael is a 20+ year, career serial entrepreneur, who has built six startups, five of which he founded. His companies include Fledge (the “conscious company” incubator), Ground Truth (market research and “big-data” analysis), Medio Systems (mobile search, advertising, and analytics), Mforma (mobile gaming and applications), 2WAY (enterprise collaboration systems), and Nimble (pen computing, PDAs, and early smartphones).
+Chek Lim
+SVP of Engineering at Globys
+More Info
+Chek is the SVP of Engineering at Globys, where he is responsible for the development of Globys’ Contextual Marketing product. He brings 15+ years of experience in building B2C and B2B software products, with focuses in SaaS, mobile client/web, and high-volume transactional platforms.
+Court Lorenzini
+Co-founder and CEO at Primus BioVision
+More Info
+Court is a serial entrepreneur with ventures in semiconductor equipment, electronic commerce, and entrepreneurship who believes in following his strengths and passions. Prior to Primus BioVision, Court was founder and CEO of DocuSign. Before DocuSign, Court was President and CEO of Flatrock, Inc., CEO of Point.com and CEO of Nth Dimension.
+Rebecca Lovell
+Startup Liaison at City of Seattle
+More Info
+Entrepreneur enthusiast. Mentor, coach, and matchmaker. Instructor and operator. Startup yenta. Currently serving: *As a mentor for Tech Stars (Summer 2010- present), *As a mentor for Founder Institute (Summer 2011-present), *On the employer advisory board for the UW Foster School of business, *On the board of advisors for LikeBright, *As an instructor in the UW MBA Program on Venture Capital (Fall 2008-present). Startup Weekend frequent-flier. Seasoned public speaker (TEDx, Ignite). Karaoke junkie.
+Vidur Luthra
+Founder and CEO of Resultrix
+More Info
+Vidur is founder and CEO of Resultrix, a pay-for-performance global digital marketing agency. Vidur is also Managing Partner at Vega, a marketing consulting firm. Previously, Vidur spent 10 years at Microsoft in various global marketing roles.
+Sanjay Manchanda
+Product Marketing Management at Microsoft
+More Info
+Sanjay leads marketing for Microsoft’s Office 365 business group. Prior to this Sanjay led the Microsoft Office Division in India. Prior to Microsoft, Sanjay was co-founder and CEO of a venture-backed enterprise software startup called B-Bop.
+Chanbir Mann
+Founder and CEO of Green InfoSystems
+More Info
+At Green InfoSystems, Chanbir is bringing a new paradigm to outsourcing which involves revitalizing the local community with lucrative IT jobs. Prior to Green, Chanbir was COO at Edifecs where he led sales and solutions consulting, client services and alliances.
+Wedge Martin
+Co-Founder of GeoPapyrus
+More Info
+Former CTO and Co-Founder of Badgeville, currently Co-Founder of GeoPapyrus, an augmented reality platform which aims to bring social networking back into the real world by fusing social media with physical surfaces viewable by mobile devices.  In previous lives, developed web applications and constructed high availability platforms for
+Shopping.com
+( now Ebay ), Reuters NASDAQ, the DoE, IBM, and Cisco.  Designed the energy communications network for the power deregulation effort in California, and extended the network to cover the western half of the US.  Loves working with web app platforms, databases, and wide area networking.  Was a pioneer in the VoIP industry helping to build the first SaaS based iPBX system, now sold as 8×8.
+Dave McClinton
+Accountant at McClinton & Associates
+More Info
+David specializes in business strategy, start-ups, and management.
+Leslie McGuire
+Director of Product Marketing at Parallels
+More Info
+Leslie leads Parallels value-added cloud services strategy, developing innovative solutions and marketing programs that enable cloud service providers to meet the needs of their SMB customers.  Before joining Parallels, Leslie held several leadership positions at Microsoft, most recently as Director, Windows Server and Management Marketing.   During her 17-year Microsoft tenure, Leslie launched many incubation businesses, fostered strategic OEM partnerships, developed ISV ecosystems and drove end-to-end SMB  channel partner strategies.
+Matt Mcllwain
+Managing Director at Madrona Venture Group
+More Info
+Matt focuses on a broad range of software-driven companies. He currently serves on the boards of
+2nd Watch
+,
+Animoto
+,
+Apptio
+,
+ExtraHop
+,
+Skytap
+,
+Mixpo
+,
+Optify
+,
+PayScale
+,
+Qumulo
+,
+Smartsheet
+,
+Placed
+, and
+Tier 3
+. Before joining Madrona in 2000, Matt was vice president of business process for the Genuine Parts Company (NYSE:GPC), a Fortune 250 company. He also was an engagement manager at McKinsey & Company, concentrating on strategy and marketing.
+Sunil Mehta
+CFO of Soma Networks
+More Info
+Sunil is currently CFO for Ensuant Technologies. He has held finance roles such as CFO, VP and Treasurer in many startups such as SOMA Networks, Leadis Technology, VLSI Technology and Maxtor.
+Greg Meyer
+Manager of Customer WOW at Salesforce
+More Info
+Greg Meyer delights start-ups, small businesses, and enterprise organizations that implement customer support ideas to take their business to the next level. He works as part of the Customer Wow team at Desk.com
+Tom Murphy
+Managing Director at vcfo Seattle
+More Info
+A former Arthur Andersen Partner and Hitachi Vice President, Tom specializes in building high value companies. He is a Zino Society coach, and is active in several Puget Sound Angel Investors groups. He has been an interim CEO, COO and CFO and is currently an Entrepreneur in Residence at WSU.
+Tom Nault
+Member of Board of Directors Conenza, Echo-Sense
+More Info
+Tom founded three different successful startups all with successful exits. He managed four turnarounds resulting in profitable exits. Most notably, he acquired controlling interest in Open interface North America (OINA) and sold it to Qualcomm in 2007. Tom has over 10 years of experience as an independent federal court appointed corporate trustee.
+Timothy Ng
+Program Manager at Microsoft
+More Info
+Program management experience building scalable cloud services for server management. Software engineering experience building compilers and debugger technologies.
+Specialties:Engineering for Cloud services, Compilers, Debuggers
+Preetish Nijhawan
+Managing Partner at Cervin Ventures
+More Info
+Preetish has 18 years’ experience leading product management and online marketing efforts for high technology companies. He has successfully built two companies from scratch into global organizations with multi-million dollar revenues.
+Abe Pachikara
+Business Manager at Microsoft
+More Info
+Marketing Generalist with 14 years agency experience at Leo Burnett and Digitas, responsible for positioning & messaging, online programs, and advertising campaigns for United Airlines, FedEx, BofA, Kraft and IBM. At Microsoft, earned Circle of Excellence field award twice: as U.S. cloud computing developer evangelism lead; & for establishing marketing governance capability.
+Gurdeep Singh Pall
+Corporate Vice President at Microsoft
+More Info
+Gurdeep is Vice President of Microsoft’s Information Platform and Experience team. He is responsible for vision, product strategy and R&D for the Bing services and platform that includes mobile, mapping, and speech. Previously he was Vice President for the Lync family of products and orchestrated the Skype acquisition. He holds several patents in networking, compression and real-time collaboration.
+Chirag Pancholi
+Experienced Startup Mentor
+More Info
+Chirag is a successful startup founder contributing to an active entrepreneurial community in B2C, B2B, and B2B2C markets.  His expertise spans full company lifecycle: formation, fund raising, team building, product development, market entry, market expansion, sales growth and liquidity events.
+Carl Paschke
+General Manager of IT at Microsoft
+More Info
+At Microsoft, Carl is responsible for delivering enterprise solutions across various Microsoft business groups at scale.  He led design, engineering & operations activities for a multitude of internal and external facing properties including MSCOM & CRM.  He was actively involved the XBOX launch for software and hardware, and is currently leading efforts in next generation customer experiences for consumer & commercial support.
+Liz Pearce
+CEO at LiquidPlanner
+More Info
+Since 2007, Liz has helped more than 1500 project teams overcome scheduling and collaboration challenges through the use of best practices and better tools. She has more than 15 years of experience in marketing, branding, sales, operations, support, management and business development. Before joining LiquidPlanner, Liz ran her own successful marketing consultancy where she worked with a diverse set of clients. She also held product and project management positions at Amazon.com, Google, and Sony Computer Entertainment America.
+Tim Porter
+Managing Director at Madrona Venture Group
+More Info
+At Madrona, Tim focuses on the software, infrastructure, and wireless sectors. He is particularly interested in SaaS, cloud computing, next-generation enterprise data centers, and opportunities created by new mobile platforms. Tim serves on the boards of
+Appature
+,
+buuteeq
+,
+Context Relevant
+, and
+AppFog
+, and is a board observer for
+Apptio
+,
+ExtraHop Networks
+,
+Impinj
+,
+Skytap
+,
+Smartsheet
+,
+Tier3
+, and
+Z2Live
+.
+Jesse Proudman
+Founder and CEO at Blue Box Group
+More Info
+Over 15 years of experience building and leading IT businesses, Jesse Proudman has successfully demonstrated his technical and business leadership aptitude as a hands-on, do-it-yourself entrepreneur. A University of Puget Sound Business Leadership Program graduate, he founded Blue Box in 2003 and has led the company to record growth levels through both prosperous and troubled economic times.
+Ranjith Ramakrishnan
+Founder & CTO at Opstera
+More Info
+Ranjith is a three-time entrepreneur who successfully founded, served as the CTO and exited two Cloud/SaaS startups in the last 5 years. Previously, he held engineering leadership positions at companies like Microsoft and IBM. Ranjith has extensive experience in SaaS business operations & management.
+Vibhu Ranjan
+Global Sales and Marketing Leader
+More Info
+Global Sales and Marketing Leader with seventeen years of progressive leadership experience in general management, solution sales, marketing, channel partner management and business development.
+Customer Vertical Expertise: High Technology, Power & Utilities, Public Sector, Manufacturing, Retail, Telecommunications and Financial Services.
+Key product types represented include: Enterprise Software, B2B Applications, Cloud Computing, SaaS, Mobile, and Professional Services.
+Start-Up Experience: Acting mentor at high-tech accelerator, 9Mile Labs where I advise early stage entrepreneurs on product positioning/messaging, business model creation and go-to-market strategies.
+Before joining F5, I led Microsoft’s Solution Sales team in the US Midwest Region covering over 2,000 customers across 3 states representing over $200 million annual revenue for Microsoft. Promoted 4-times at Microsoft.
+Andrew Rodgers
+Founder & CTO at SpaceCurve
+More Info
+Andrew is currently the CTO and the founder of SpaceCurve, the first real-time analytical database platform designed for the Internet of Things. A Silicon Valley veteran of companies like Netflix and Cisco, he has two decades of operational experience in real-time Big Data and is a pioneer in the development of distributed database technologies for real-time geospatial and location intelligence.
+John Rizzo
+Chief Marketing Officer at Jive Software
+More Info
+John brings more than 25 years of experience helping to guide some of the world’s most successful technology companies through start-up phases, major product launches, branding and marketing campaigns, rapid growth, acquisitions and IPOs. He has raised over $150M in private and public markets and was a key early-stage contributor to companies that are today delivering well over $100B in combined annual sales. He began his career with Intel and then joined Apple (Macintosh Marketing). He ran marketing and sales for Weitek, the world’s first fabless chip company, which completed an IPO and pioneered 3D graphics for video gaming. John was Vice President of Global Market Planning and Programs at Oracle. and CEO of Cahoots/Informative (a social networking and customer intelligence SaaS company). Most recently, John was President and CEO of Zeebo, Inc., which launched a wireless interactive entertainment, internet, social networking and education platform for consumers in Brazil, Mexico, China, India and other emerging markets. He holds a Bachelor of Science degree in electrical engineering from Stanford University.
+John Sechrest
+Founder, Seattle Angel Conference
+More Info
+John Sechrest is the co-organizer for the Lean Startup Seattle group and the founder of the Seattle Angel Conference as well as the Willamette Angel Conference. John wrote code at HP for the first networked calculator. As an entrepreneur, John founded an Internet Service Provider in Oregon. John is currently active in the Seattle Open Coffee and Eastside Open Coffee.
+Raj Sehgal
+Software Business Veteran
+More Info
+Raj Sehgal is a software business professional with extensive product management/marketing experience at Microsoft, Sun/Oracle, Sybase, and several startups including two SaaS companies that he co-founded – CareAssured (health insurance) and IronPillar (IT service management).
+Soumitra Sengupta
+Principal Development Manager at Microsoft
+More Info
+Soumitra was one of the key technologists driving the development of Windows Phone 7 software and hardware. He was also a key contributor to the development of the SQL Azure platform. Soumitra was the co-founder and CTO of a venture-backed enterprise software company called B-Bop.
+Gowri Shankar
+Venture Partner at Naya Ventures
+More Info
+Prior to Naya Ventures, Gowri was CEO of SinglePoint Technologies. As a founding member of the Sprint PCS launch team, Gowri led the creation of the first nation-wide telesales and e-commerce distribution channels in the wireless industry.
+Ajay Sikka
+Managing Consultant at Ci2i Services, Inc.
+More Info
+Ajay has 20+ years’ experience working with Enterprise Software & Services companies. He has been part of 2 successful startups (Vermeer-FrontPage & IndiaHQ). Ajay has built new businesses, driven M&A transactions, and led large teams. He provides strategic guidance, helps in building Global alliances, and architecting Product roadmaps. He is very active in supporting startups in the Seattle area and in India.
+Dharmesh Singh
+Sr. Director at Salesforce.com
+More Info
+Focused on driving solutions for supporting the full customer lifecycle from pre-sales to renewals. Dharmesh brings a multi-disciplinary lens to help jumpstart startups having global experience across sales, operations, product and program management.  Over 15 years at Microsoft where he worked across Asia–Pacific, US Field and Corporate headquarters. Actively involved in mentoring early stage and venture funded startups focused on the enterprise space.
+Madhu K Singh
+Principal at MK Singh Law Office
+More Info
+Madhu works closely with growth companies, start-ups and entrepreneurs to develop successful legal and intellectual property strategies in the areas of technology, mobile, and social. She also assists U.S. companies expand into India. Madhu is the faculty lead of the Community Development and Entrepreneurship Clinic at Seattle University School
+of Business.
+Sherril Small
+ChangeMarketer & Managing Partner at CJSA LLC
+More Info
+Sherril is a marketing and communications specialist who understands how to
+open new markets.
+Her firm, ChangeMarketer, works with high-tech companies to
+establish, expand or reposition businesses and their products in the marketplace.
+Her clients include technology leaders, inventors and innovators.
+Matt Sousley
+Cloud Integrations Architect at Skytap
+More Info
+Matt has seen the entire spectrum of Systems Management in his career, from a data center operator to a software developer building products for IT. He has worn many technical hats, including developer, architect, and manager while working at iConclude, Opsware, HP, and FullArmor.
+Brad Stevens
+Marketing Executive
+More Info
+Accomplished consumer marketing executive with a passion for innovation and delivering big results. • 30-year track record of consistently launching successful new products and initiatives. • Adept manager of large teams (100+) and budgets ($100M+) in Fortune 500 companies, as well as small, hands-on start-up ventures. • Diverse industry experience: retail, food service, consumer goods, telecom, software and electronics. • Broad portfolio of branding, advertising, DM, web, PR and CRM accomplishments. • Skilled talent recruiter and developer; agency and strategic partnership manager. • Thinks and reacts quickly and creatively when companies need it most. • Compelling communicator and expert public spokesperson.
+Eric Swift
+General Manager, WW Productivity Sales Specialists at Microsoft
+More Info
+General Manager, WW Productivity Sales Specialists – Microsoft
+Microsoft CorporationGeneral Manager, SharePoint Product Management – Microsoft Corporation
+Microsoft CorporationGeneral Manager, Unified Communications – Microsoft Corporation
+MicrosoftSenior Director, Unified Communications Product Management
+Shannon Swift
+President/CEO, Swift HR Solutions, Inc.
+More Info
+Shannon Swift is the CEO of Swift HR Solutions, Inc., a provider of strategic HR services and products for early stage companies. Shannon has more than twenty years of human resources experience, combined with successful executive level management and business development roles. She has held the top senior HR positions at GoAhead Software (Vice President and Corporate Secretary), Nastech Pharmaceutical (Senior Director), and Health Team Northwest (Director), formerly Home Health Care of Washington. She has also held senior level roles in outsourcing firms TriNet VCO (Managing Director) and PMSI (Director of Business Development).
+Ray Taft
+Sr. Director of IT at Gap, Inc.
+More Info
+Ray is responsible for designing, building and operating the Global Data Center and IT footprint for Gap, Inc. Before Gap, Ray was VP of IT Infrastructure at Expedia.com where he led multiple operational and engineering teams. Ray founded and was CEO for Jupiter Hosting, which was acquired by Navisite.
+Seth Talbott
+CEO, Entrepreneur & Startup Advisor
+More Info
+Seth is a serial entrepreneur who started his career in IT and software development over 15 years ago. Over that span, Seth has run a global data center for a major software company, been CEO of a group of award winning medical clinics and founded numerous companies including AtomOrbit which VentureBeat named as one of the most innovative Early-stage Startups in the 2013 Innovation Showdown in Cloud software. AtomOrbit also won the GeekWire 2013 Startup Day Pitch competition. He has been all over the world to consult and advise with some of the largest companies in the world, including AT&T, Microsoft, Vodafone, Citi, Wells Fargo, Target, and the British Ministry of Defense, just to name a few.
+Christine Thompson
+President & Owner at Informing Arts
+More Info
+Christine was instrumental in creating new software categories and developing markets
+for Apple
+and Adobe, a pioneer in digital media and publishing. She led Apple’s digital publishing business during a period of explosive growth:  $1 billion in <5 years. She has served on the coaching committee for an angel’s network, helping founders hone their pitch for investors.  Through her work with
+Informing Arts
+,  Christine advises B2B and B2C clients on strategies to build brands, find their sweet spot and drive growth through an aligned revenue engine.  These days she is keen to innovate new models to link best practice frameworks from customer discovery +  lean startups + B2B buyer journeys + content marketing  as a faster way to grow markets and acquire the right B2B customers.
+Alex Tibbets
+General Manager at Nordstrom Direct
+More Info
+Motivated by the satisfaction of activating unconventional approaches to ambiguous opportunities and problems that seem intractable. Expertise in planning, negotiating, launching, and marketing “firsts” – in product, process and partnerships.
+Rick Turoczy
+Co-Founder at PIE (Portland Incubator Experiment)
+More Info
+Rick is a leader of the Portland, OR startup community. He founded and manages PIE, a Portland-based technology accelerator run in collaboration with global advertising agency Wieden+Kennedy. He’s also the editor of Silicon Florist, a blog covering the Portland startup and open source scenes. Rick serves as a board member at the Technology Association of Oregon and an advisor to the Oregon Entrepreneurs Network.
+Vijay Vashee
+Board Member at Fred Hutchinson Cancer Research Center
+More Info
+Vijay is an active angel investor, venture capitalist, philanthropist, founder of TiE Seattle, and mentor to many entrepreneurs. Vijay also has served as Chairman of Bellevue College and on various other boards. During his tenure at Microsoft, Vijay launched several key software products.
+Haresh Ved
+Chair at TiE Angels Group Seattle (TAGS)
+More Info
+Haresh launched and is the Chair of the TiE Angels Group Seattle (TAGS.)  He is also the Founder and Managing General Partner at Cronus Ventures LLC, an early stage investment company.  Prior to founding Cronus, Haresh spent 10+ years holding key development and leadership roles at Microsoft Corporation, steering them in their initial product design and development efforts to shape up the future of handheld devices, Tablets, and mobile computing. He also played a key role early on in developing and implementing tools, technologies, and strategies to take Microsoft products to international markets.  Haresh’s key focus areas are Mobility, Education, eLearning and eHealth.
+Deven Waghani
+Vice President of Corporate Strategy at HP
+More Info
+At HP, Deven is one of the key strategists architecting the turnaround efforts at HP. Prior to HP, Deven was the head of marketing and advertising for the Server & Tools Division at Microsoft. Deven also spent many years in management consulting at McKinsey & Co.
+Joe Wallin
+Legal Counsel to Start-Ups and Emerging Companies at Davis Wright Tremaine
+More Info
+Joe Wallin focuses on emerging, high growth, and startup companies. Joe frequently represents companies in angel and venture financings, mergers and acquisitions, and other significant business transactions. Joe also represents investment funds with respect to their fund formation work, and represents investors in and acquirers of businesses, and provides general counsel services for companies from startup to post-public. Joe is also the founder of the firm’s Startup Law Blog – you can learn more about him at
+StartupLawBlog.com.
+Joe Whitford
+Legal Counsel to Start-Ups and Emerging Companies at Davis Wright Tremaine
+More Info
+Joe Whitford focuses his corporate finance practice in startups and the emerging-company sector, where he has served for more than 30 years as General Counsel and advisor to high- growth software, Internet, health care, medical device, biotech, wireless, and specialty retail business ventures.
+Darren Yetzer
+Senior Director at Microsoft
+More Info
+Senior-executive level individual with a proven leadership track-record in the areas of channel business development and digital channel marketing.
+Created and executed successful channel (routes to market) strategies across e-commerce, BI, Cloud and Voice businesses. Accountable for developing channel portfolios with a balance of business development and programmatic scale activities. Resulted-in, with proper P&L management and appropriate routes-to-market focus, increased sales, larger customer base and entry into new product categories and geographies.
+Sponsors
+Cohort Sponsor
+Milestone9 Sponsor
+Networking Sponsors
+Product Partners
+Promotional Partners
+Get Involved
+Are you an entrepreneur?
+Email Us
+or
+Apply
+Would you like to be a mentor?
+Email Us
+Would you like to be a sponsor?
+Email Us
+© 2013
+9Mile Labs, LLC
+Facebook
+LinkedIn
+RSS
+Twitter

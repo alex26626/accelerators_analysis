@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en-US"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en-US"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en-US"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en-US"> <!--<![endif]-->
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("http://web.archive.org/web");
+  __wm.wombat("http://highway1.io/incubate/","20140625111501","http://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1403694901");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1B2M2Y8A" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=1B2M2Y8A" />
+<!-- End Wayback Rewrite JS Include -->
+
+	
+	<!-- Basic Page Needs
+  	================================================== -->
+	<meta charset="UTF-8"/>
+	<title>Incubate | Highway1</title>
+	
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Mobile Specific Metas
+  	================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	
+	<link rel="profile" href="http://gmpg.org/xfn/11"/>
+	<link rel="shortcut icon" href="http://web.archive.org/web/20140625111501im_/http://highwayone.io/wp-content/uploads/2013/06/highway1-favicon.png" type="image/x-icon"/>
+	<link rel="pingback" href="http://highway1.io/xmlrpc.php"/>
+	<link rel="alternate" type="application/rss+xml" title="Highway1" href="http://web.archive.org/web/20140625111501/http://highway1.io/feed/"/>
+	<link rel="alternate" type="application/atom+xml" title="Highway1" href="http://web.archive.org/web/20140625111501/http://highway1.io/feed/atom/"/>
+	
+	
+	<script src="//web.archive.org/web/20140625111501js_/http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+	
+	<link rel="alternate" type="application/rss+xml" title="Highway1 » Feed" href="http://web.archive.org/web/20140625111501/http://highway1.io/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Highway1 » Comments Feed" href="http://web.archive.org/web/20140625111501/http://highway1.io/comments/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Highway1 » Incubate Comments Feed" href="http://web.archive.org/web/20140625111501/http://highway1.io/incubate/feed/"/>
+<link rel="stylesheet" id="danielquinn-layout-css" href="http://web.archive.org/web/20140625111501cs_/http://highway1.io/wp-content/themes/captivate-child/assets/css/layout.css?ver=1.0" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-css" href="http://web.archive.org/web/20140625111501cs_/http://fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C600%2C300italic%2C400italic%2C600italic&amp;ver=3.9" type="text/css" media="all"/>
+<link rel="stylesheet" id="layout-css" href="http://web.archive.org/web/20140625111501cs_/http://highway1.io/wp-content/themes/captivate/assets/css/layout.css?ver=1.0" type="text/css" media="all"/>
+<link rel="stylesheet" id="prettyPhoto-css" href="http://web.archive.org/web/20140625111501cs_/http://highway1.io/wp-content/themes/captivate/assets/js/prettyPhoto/prettyPhoto.css?ver=3.1.4" type="text/css" media="all"/>
+<link rel="stylesheet" id="elastislide-css" href="http://web.archive.org/web/20140625111501cs_/http://highway1.io/wp-content/themes/captivate/assets/js/elastislide/elastislide.css?ver=1.0" type="text/css" media="all"/>
+<link rel="stylesheet" id="flexslider-css" href="http://web.archive.org/web/20140625111501cs_/http://highway1.io/wp-content/themes/captivate/assets/js/flexslider/flexslider.css?ver=2.0" type="text/css" media="all"/>
+<link rel="stylesheet" id="cameraslider-css" href="http://web.archive.org/web/20140625111501cs_/http://highway1.io/wp-content/themes/captivate/assets/js/cameraslider/camera.css?ver=1.3.4" type="text/css" media="all"/>
+<link rel="stylesheet" id="grid-css" href="http://web.archive.org/web/20140625111501cs_/http://highway1.io/wp-content/themes/captivate/assets/css/grid.css?ver=1.0" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="http://web.archive.org/web/20140625111501cs_/http://highway1.io/wp-content/themes/captivate/assets/css/responsive.css?ver=1.0" type="text/css" media="all"/>
+<link rel="stylesheet" id="skin-css" href="http://web.archive.org/web/20140625111501cs_/http://highway1.io/wp-content/themes/captivate/assets/skins/skin_14.css?ver=1.0" type="text/css" media="all"/>
+<link rel="stylesheet" id="custom-css" href="http://web.archive.org/web/20140625111501cs_/http://highway1.io/wp-content/themes/captivate/assets/css/custom.php?ver=1.0" type="text/css" media="all"/>
+<link rel="stylesheet" id="style-css" href="http://web.archive.org/web/20140625111501cs_/http://highway1.io/wp-content/themes/captivate-child/style.css?ver=1.0" type="text/css" media="all"/>
+<script type="text/javascript" src="http://web.archive.org/web/20140625111501js_/http://highway1.io/wp-includes/js/jquery/jquery.js?ver=1.11.0"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140625111501js_/http://highway1.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://highway1.io/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://highway1.io/wp-includes/wlwmanifest.xml"/> 
+<link rel="prev" title="Apply" href="http://web.archive.org/web/20140625111501/http://highway1.io/apply/"/>
+<link rel="next" title="Learn" href="http://web.archive.org/web/20140625111501/http://highway1.io/learn/"/>
+<link rel="canonical" href="http://web.archive.org/web/20140625111501/http://highway1.io/incubate/"/>
+<link rel="shortlink" href="http://web.archive.org/web/20140625111501/http://highway1.io/?p=344"/>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+ 	
+</head>
+
+<body class="page page-id-344 page-template-default">
+
+<div id="azure-wrapper" class="wide">
+	
+	<!-- header -->
+	<header id="header">
+		
+		<div class="container header-inner">
+		
+			<div class="sixteen columns">
+					
+				<div class="logo">
+					<a href="http://web.archive.org/web/20140625111501/http://highway1.io/" title="Highway1"><img src="http://web.archive.org/web/20140625111501im_/http://highway1.io/wp-content/uploads/2013/10/logo-highway11_s1.png" alt="Highway1"/></a>
+				</div>
+				
+				<nav id="main-nav">
+					<div class="menu-primary-container"><ul id="nav" class="primary-menu"><li id="menu-item-207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-207"><a href="http://web.archive.org/web/20140625111501/http://highway1.io/learn/">Learn</a></li>
+<li id="menu-item-448" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-344 current_page_item menu-item-448"><a href="http://web.archive.org/web/20140625111501/http://highway1.io/incubate/">Incubate</a></li>
+<li id="menu-item-445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445"><a href="http://web.archive.org/web/20140625111501/http://highway1.io/graduate/">Graduate</a></li>
+<li id="menu-item-450" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-450"><a href="http://web.archive.org/web/20140625111501/http://highway1.io/portfolio/">Portfolio</a></li>
+<li id="menu-item-311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-311"><a href="http://web.archive.org/web/20140625111501/http://highway1.io/team/">Team</a></li>
+<li id="menu-item-309" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-309"><a href="http://web.archive.org/web/20140625111501/http://highway1.io/blog/">Blog</a></li>
+<li id="menu-item-565" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-565"><a href="http://web.archive.org/web/20140625111501/http://highway1.io/apply/">Apply</a></li>
+</ul></div>				</nav>
+				
+				<div class="container call-inner twelve columns">
+								
+			
+							
+			<div class="call-social far-edge">
+				<div class="at-social"><a class="angellist" href="http://web.archive.org/web/20140625111501/https://angel.co/highway1" title="Angellist">Angellist</a><a class="f6s" href="http://web.archive.org/web/20140625111501/http://www.f6s.com/highway1" title="F6s">F6s</a><a class="facebook" href="http://web.archive.org/web/20140625111501/https://www.facebook.com/highway1incubator" title="Facebook">Facebook</a><a class="twitter" href="http://web.archive.org/web/20140625111501/https://twitter.com/highway1io" title="Twitter">Twitter</a><a class="youtube" href="http://web.archive.org/web/20140625111501/http://www.indiegogo.com/partners/highway1" title="Youtube">Youtube</a><a class="RSS" href="http://web.archive.org/web/20140625111501/http://highway1.io/feed/" title="RSS">RSS</a></div>
+				<div id="mailing-list" class="far-edge">
+					<form action="http://web.archive.org/web/20140625111501/http://pchintl.us5.list-manage.com/subscribe/post?u=e383fed7785f2d1db58e80c68&amp;id=114b458d09" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Get updates" required="required" onfocus="this.placeholder = 'E-mail address'" onblur="this.placeholder = 'Get updates'"/>
+						<input type="submit" value="" name="subscribe" id="mc-embedded-subscribe" class="button" title="Subscribe to our mailing list"/>
+					</form>
+				</div>
+			</div>
+		
+		</div>
+			
+			</div>
+		
+		</div>		
+        
+        
+		
+	</header>
+	<!-- end header -->
+	
+	<!-- pre-header -->
+	<section id="pre-header">		
+        
+        
+		
+		
+        
+	</section>
+	<!-- end pre-header -->
+
+	
+	<section id="pre-content">
+			
+		<div class="container">
+	
+	<div class="sixteen columns">
+		<div class="space-title">
+						<h1 class="page-title">Incubate</h1>
+									
+							<div class="breadcrumbs">
+					<a href="http://web.archive.org/web/20140625111501/http://highway1.io/">Home</a>  <span class="current">Incubate</span>				</div>
+						</div>
+	</div>
+
+</div>		
+	</section>
+	
+								
+			<!-- main-container -->
+			<section id="main-container" class="container" role="main">
+				<img class="pageimage sixteen columns" src="http://web.archive.org/web/20140625111501im_/http://highway1.io/wp-content/themes/captivate-child/assets/images/page-incubate.jpg"><br/>						<div id="main" class="twelve columns content-part">
+							
+	<!-- post entry -->
+	<article id="post-344" class="post-344 page type-page status-publish hentry page-single clearfix">
+		
+				
+		<div class="post-content">
+			<h1>A vision and a prototype will only get you so far.<br/>
+Highway1 helps you build a business.</h1>
+<p>Our four month program supplies you with:</p>
+<p>• A dedicated staff of experienced engineers ­<br/>
+• An inside view into the supply chain and manufacturing infrastructure in China<br/>
+­• An education in manufacturing, supply chain, and distribution as well as project and business management, finance, and strategy<br/>
+­• Office &amp; machine shop space in San Francisco<br/>
+­• Mentorship and guidance from across the tech sector<br/>
+­• Fine-tune your pitch for potential investors­<br/>
+• Access to an extensive network of investors<br/>
+• Seed Funding of $50,000 in return for 4-7% equity</p>
+<p>We&#8217;re looking for small teams that want to build hardware companies for the long term. If this describes you, let us know.</p>
+<p style="text-align: left;"><br class="blank"/><a class="red_button" title="Apply on AngelList" href="http://web.archive.org/web/20140625111501/https://angel.co/highway1">Apply on AngelList</a></p>
+<p>&nbsp;</p>
+<h2>Product Development</h2>
+<p>Work alongside our in­house engineers to finalize your prototype and design the finished product for manufacture at scale.</p>
+<p>&nbsp;</p>
+<h2>Sourcing and Fulfillment</h2>
+<p>Gain detailed knowledge about production and fulfillment with sustainability in mind, from optimizing your supply chain infrastructure, to inventory management, and retail distribution</p>
+<p>&nbsp;</p>
+<h2>Business 101</h2>
+<p>Learn how to set up and manage your business right from developing your market strategy to managing cash flow and optimizing your team</p>
+<p>&nbsp;</p>
+<h2>Equity Financing</h2>
+<p>Highway1 provides you the cash for living expenses and prototyping, so you can concentrate on getting your business off the ground.</p>
+<p>&nbsp;</p>
+<h2>Office Space</h2>
+<p>Share a bright, modern office space with like­-minded peers.</p>
+<p>&nbsp;</p>
+<h2>Machine Shop</h2>
+<p>Access to a modern, fully-equipped machine shop and rapid prototyping facility with equipment valued at over $3M.</p>
+<p>&nbsp;</p>
+<h2>Travel to China</h2>
+<p>Fly to Shenzhen with us to tour the facilities that will manufacture your product</p>
+<p>&nbsp;</p>
+<h2>Corporate Perks</h2>
+<p>Our partner sponsors can help you get started with some valuable credits.</p>
+<p style="text-align: left;"><br class="blank"/><a class="red_button" title="Apply on AngelList" href="http://web.archive.org/web/20140625111501/https://angel.co/highway1">Apply on AngelList</a></p>
+			<div class="clearfix"></div>
+						
+						
+		</div>
+
+	</article>
+	<!-- end post entry -->
+		
+							</div>
+						<!-- sidebar right -->
+						<aside id="sidebar" class="four columns sidebar">
+						
+													
+						</aside>
+						<!-- end sidebar right -->
+									
+			</section>
+			<!-- end main-container -->
+			
+			
+		
+	<!-- footer -->
+	<footer id="footer">
+		
+        
+        
+        <div id="copyright">
+            
+            <div class="container">
+			
+				<div class="fixed-footer">
+			
+                
+                	<div class="sixteen columns">  	
+                    	<div class="footer-logo">
+							<a href="http://web.archive.org/web/20140625111501/http://highway1.io/" title="Highway1"><img src="http://web.archive.org/web/20140625111501im_/http://highway1.io/wp-content/themes/captivate-child/images/PCH_Logo_Solutions_Horizontal.png" alt="Highway1"/></a>
+						</div>	
+                        <nav id="sub-nav">
+                            <div class="menu-secondary-container"><ul id="nav2" class="secondary-menu"><li id="menu-item-529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-529"><a href="http://web.archive.org/web/20140625111501/http://highway1.io/learn/">Learn</a></li>
+<li id="menu-item-526" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-344 current_page_item menu-item-526"><a href="http://web.archive.org/web/20140625111501/http://highway1.io/incubate/">Incubate</a></li>
+<li id="menu-item-524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524"><a href="http://web.archive.org/web/20140625111501/http://highway1.io/graduate/">Graduate</a></li>
+<li id="menu-item-523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523"><a href="http://web.archive.org/web/20140625111501/http://highway1.io/portfolio/">Portfolio</a></li>
+<li id="menu-item-527" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-527"><a href="http://web.archive.org/web/20140625111501/http://highway1.io/team/">Team</a></li>
+<li id="menu-item-528" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-528"><a href="http://web.archive.org/web/20140625111501/http://highway1.io/blog/">Blog</a></li>
+<li id="menu-item-564" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-564"><a href="http://web.archive.org/web/20140625111501/http://highway1.io/apply/">Apply</a></li>
+</ul></div>                        </nav>						
+						
+						
+                                            
+                        
+                        
+                    </div>
+            
+				</div>
+			
+			</div>
+            
+        </div>
+		
+	</footer>
+	<!-- end footer -->
+	
+</div>
+<!-- end .wrap -->
+
+<div class="scrollTop">
+	<a href="javascript:void(0);">Scroll to Top</a>
+</div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//web.archive.org/web/20140625111501/http://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42042102-1', 'highway1.io');
+  ga('send', 'pageview');
+
+</script><script type="text/javascript" src="http://web.archive.org/web/20140625111501js_/http://highway1.io/wp-content/themes/captivate/assets/js/jquery.easing.js?ver=1.3"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140625111501js_/http://highway1.io/wp-content/themes/captivate/assets/js/jquery.fitvids.js?ver=1.0"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140625111501js_/http://highway1.io/wp-content/themes/captivate/assets/js/jquery.mobilemenu.js?ver=1.0"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140625111501js_/http://highway1.io/wp-content/themes/captivate/assets/js/jquery.isotope.min.js?ver=1.5.19"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140625111501js_/http://highway1.io/wp-content/themes/captivate/assets/js/prettyPhoto/jquery.prettyPhoto.js?ver=3.1.4"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140625111501js_/http://highway1.io/wp-content/themes/captivate/assets/js/elastislide/jquery.elastislide.js?ver=1.0"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140625111501js_/http://highway1.io/wp-content/themes/captivate/assets/js/flexslider/jquery.flexslider.min.js?ver=2.0"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140625111501js_/http://highway1.io/wp-content/themes/captivate/assets/js/cameraslider/camera.min.js?ver=1.3.4"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140625111501js_/http://highway1.io/wp-includes/js/comment-reply.min.js?ver=3.9"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140625111501js_/http://highway1.io/wp-content/themes/captivate/assets/js/scripts.js?ver=1.0"></script>
+</body>
+</html><!--
+     FILE ARCHIVED ON 11:15:01 Jun 25, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:53:30 May 25, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.516
+  exclusion.robots: 0.031
+  exclusion.robots.policy: 0.018
+  esindex: 0.009
+  cdx.remote: 12.891
+  LoadShardBlock: 195.938 (3)
+  PetaboxLoader3.datanode: 116.591 (4)
+  PetaboxLoader3.resolve: 392.188 (2)
+  load_resource: 419.808
+-->

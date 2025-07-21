@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html>
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("http://web.archive.org/web");
+  __wm.wombat("http://nfx.com:80/company/growth","20170613130233","http://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1497358953");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1B2M2Y8A" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=1B2M2Y8A" />
+<!-- End Wayback Rewrite JS Include -->
+
+  <title>NFX</title>
+  <link rel="shortcut icon" type="image/x-icon" href="/web/20170613130233im_/http://nfx.com/assets/favicon-42ea7101eecd80432bcf8ace4efca730.ico"/>
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">  
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="">
+  
+  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:site" content="@NFXGuild"/>
+  <meta property="og:title" content="The invite only startup guild for the world’s top entrepreneurs"/> 
+  <meta property="og:url" content="http://web.archive.org/web/20170613130233/http://www.nfx.com/"/> 
+  <meta property="og:description" content="NFX is an invite-only Guild for top entrepreneurs looking to accelerate growth and enhance defensibility, predominantly through the use of Network Effects. It runs a three month program in the Bay Area twice per year for 15-20 companies."/>  
+  <meta property="og:image" content="http://web.archive.org/web/20170613130233im_/http://nfx.com/assets/imgs/nfx_og_banner_1-755cd53bf405cc8242aaad714efb4a9e.png"/>
+  
+  <link href="http://web.archive.org/web/20170613130233cs_/http://fonts.googleapis.com/css?family=Sanchez|Open+Sans:300,400,700" rel="stylesheet" type="text/css">
+  <link href="//web.archive.org/web/20170613130233cs_/http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet">
+  
+  <link rel="stylesheet" media="all" href="/web/20170613130233cs_/http://nfx.com/assets/application-0e06d7f857932b178e82e5af8d54e981.css" data-turbolinks-track="true"/>
+  <script src="/web/20170613130233js_/http://nfx.com/assets/application-68bfbb49b42169e0434b529d55f20411.js" data-turbolinks-track="true"></script>
+
+  <script src="//web.archive.org/web/20170613130233js_/http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+  
+  <script>
+  		function goToByScroll(id){
+        $('html,body').animate({scrollTop: $("#"+id).offset().top - 40},'slow');
+  		}
+  		
+  </script>
+
+  <!-- Start of HubSpot Embed Code -->
+    <script type="text/javascript" id="hs-script-loader" async defer src="//web.archive.org/web/20170613130233js_/http://js.hs-scripts.com/2851496.js"></script>
+  <!-- End of HubSpot Embed Code -->
+  
+  <meta name="csrf-param" content="authenticity_token"/>
+<meta name="csrf-token" content="2C+OZLify3cwcf6gzavGttJxY6AYSrh3QERMr8SJF3aAef2rc+JRVXPNSJe14YdBvFozGq02aX70/UlHz5wDMw=="/>
+</head>
+<body class=" main-site" style="">
+
+  <nav class="navbar navbar-default navbar-fixed-top" style="">
+<div class="container">
+<div class="navbar-header">
+<button aria-controls="navbar" aria-expanded="false" class="navbar-toggle collapsed" data-target="#navbar" data-toggle="collapse" type="button">
+<span class="sr-only">
+Toggle navigation
+</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div class="navbar-collapse collapse" id="navbar">
+<ul class="nav navbar-nav">
+<li>
+<a href="/web/20170613130233/http://nfx.com/company/index">NFX</a>
+</li>
+<li>
+<a href="/web/20170613130233/http://nfx.com/company/about">About</a>
+<!-- = link_to 'About', 'javascript:void(0)', {onclick:"goToByScroll('about')"} -->
+</li>
+<li>
+<a href="/web/20170613130233/http://nfx.com/company/team">Team</a>
+</li>
+<!-- %li -->
+<!-- = link_to 'Q&A', company_qa_path -->
+<li>
+<a href="/web/20170613130233/http://nfx.com/company/companies">Investments</a>
+</li>
+<!-- %li -->
+<!-- = link_to 'Calendar', company_calendar_path -->
+<!-- %li -->
+<!-- = link_to 'Program', company_program_path -->
+<!-- %li -->
+<!-- = link_to 'Email Newsletter', company_journal_path -->
+<li>
+<a target="_blank" href="http://web.archive.org/web/20170613130233/http://essays.nfx.com/">Essays</a>
+</li>
+<li>
+<a href="/web/20170613130233/http://nfx.com/company/growth">Growth Program</a>
+</li>
+<!-- %li -->
+<!-- = link_to 'Jobs', company_jobs_path -->
+<!-- %li -->
+<!-- = link_to 'Apply', company_apply_path -->
+</ul>
+</div>
+</div>
+</nav>
+
+
+  <div class="container-fluid alt_section_bg">
+<div class="container section_bottom_space" id="growth">
+<div class="row">
+<div class="col-sm-12">
+<h1>
+Growth Program
+<span style="font-size: 16px;">
+<a class="btn btn-link" href="/web/20170613130233/http://nfx.com/company/qa">
+Q&A;
+</a>
+<a class="btn btn-link" href="/web/20170613130233/http://nfx.com/company/calendar">
+Calendar
+</a>
+<a class="btn btn-link" href="/web/20170613130233/http://nfx.com/company/program">
+Program
+</a>
+<a class="btn btn-link" href="/web/20170613130233/http://nfx.com/company/apply">
+Apply
+</a>
+</span>
+</h1>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-12">
+<p>
+For companies that haven’t yet reached product-market fit, we run a three-month structured investment program to help you get there.  We call it the Growth Program.  Classes have 15-25 companies at a time. Most of those companies have proven teams of 3-20 and have already raised capital. Many are second-time founders.  Most of the founders come from proven centers of excellence.
+</p>
+<p>
+NFX Guild companies benefit from joining the NFX Alumni and their classmates in a trusted guild of entrepreneurs working on similar businesses with similar problems and assisting each other under the Guild’s code of confidentiality.
+</p>
+<p>
+For the first three weeks of the program, we meet as a group twice per week. For the remainder of the weeks, we usually meet as a group once per week. Office hours are open five days per week and the companies can meet with the partners as often as it makes sense, typically up to twice per week. There are additional optional group sessions covering specific topics. Each company will be introduced - if required - to expert Advisors in the Bay Area with the ability to help with the specific challenges they face.
+</p>
+<p>
+The NFX Guild growth program events take place in Palo Alto and San Francisco in SOMA.
+</p>
+<p>
+The other NFX office is in Israel, in Hertzeliya. Israeli NFX companies get an additional pre-program in Israel to help ensure they are prepared to make the most of the NFX experience in the Bay Area. The pre-program includes prep sessions, a class dinner, and office hours.
+</p>
+<p>
+The NFX program ends with the NFX Conference &amp; Demo Day, where each company presents in front of investors, journalists, and top potential hires. Below are the terms of funding.
+</p>
+</div>
+</div>
+</div>
+</div>
+
+  
+
+  <script>
+      $('[data-toggle="tooltip"]').tooltip()
+  
+  		$('#exampleModal').on('show.bs.modal', function (event) {
+        var button = $(event.relatedTarget);
+        var owner = button.data('owner');
+        var code = button.data('code');
+        var partner = button.data('partner');
+        var invite = button.data('invite');
+        var modal = $(this);
+        modal.find('.modal-title').text('Edit code for ' + owner);
+        modal.find('#ownerInput').val(owner)
+        modal.find('#codeInput').val(code)
+        modal.find('#updateInviteForm').attr("action", invite)
+        modal.find('#destroyInvite').attr("href", invite)
+        if(partner){
+          modal.find('#partnerInput').val(partner)
+        }else{
+          modal.find('#partnerInput option')[0].selected = true;
+        }
+      });
+      
+      $( "#demosVideoSelection" ).change(function(event) {
+        var partnerSelect = $(event.currentTarget);
+        var partner = partnerSelect.val();
+        $('#demoVideoWell').css( "visibility", "visible" );
+        $('#demoVideoFrame').attr("src", partner);
+      });
+      
+      $( "#partnerFilter" ).change(function(event) {
+        var partnerSelect = $(event.currentTarget);
+        var partner = partnerSelect.val();
+        $("#invites td.partner").each(function(){
+          if($(this).text().indexOf(partner) >= 0){  //Check if first letter exists in the drop down value
+               $(this).parent().show();
+
+          }else{
+               $(this).parent().hide();
+          }
+        });
+      });
+      
+      $( "#conferenceEmailStatus" ).change(function(event) {
+        var statusSelect = $(event.currentTarget);
+        var status = statusSelect.val();
+        window.location.replace("/attend/list"+"?grouping="+status);
+      });
+      
+      $('#applicationSubForm').on('keyup keypress', function(e) {
+        var code = e.keyCode || e.which;
+        if (code == 13 && !$(e.target).is("textarea")) {
+          e.preventDefault();
+          return false;
+        }
+      });
+
+      $('#btnSubmitApplication').click(function() {
+          var $btn = $(this).button('loading')
+          $('#applicationSubForm').submit();
+      });
+
+      $('#campaignConnectionForm').on('submit', function (e) {
+        var email = $('#campaignConnectionEmailInput').val();
+        if (email == '') {
+          $('#simpleModalWarning').modal('show');
+          e.preventDefault();
+        }
+      });
+            
+      $('#applicationSubForm').validator().on('submit', function (e) {
+        if (e.isDefaultPrevented()) {
+          // handle the invalid form...
+          $('#applicationIncomplete').modal('show');
+        } else {
+          // everything looks good!
+          var $btn = $('#newApplicationSubmitBtn').button('loading');
+        }
+      })
+      
+      $('#contactModal').on('show.bs.modal', function (event) {
+        var button = $(event.relatedTarget);
+        var company = button.data('company');
+        var name = button.data('name');
+        var modal = $(this);
+        modal.find('.modal-title').text('Introduce me to ' + name);
+        modal.find('#companyId').val(company)
+      });
+      
+  </script>
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//web.archive.org/web/20170613130233/http://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-62857713-1', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 13:02:33 Jun 13, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:28:26 May 25, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.627
+  exclusion.robots: 0.046
+  exclusion.robots.policy: 0.035
+  esindex: 0.013
+  cdx.remote: 18.443
+  LoadShardBlock: 112.707 (3)
+  PetaboxLoader3.datanode: 52.502 (4)
+  load_resource: 177.877
+  PetaboxLoader3.resolve: 142.379
+-->

@@ -1,0 +1,109 @@
+Y Combinator
+The Wayback Machine - http://ycombinator.com:80/
+Wired
+|
+Mixergy
+|
+Inc
+|
+WSJ
+|
+GQ
+|
+ATD
+|
+Fool
+|
+Time
+|
+BW
+|
+NYT
+|
+NW
+"The most prestigious program for budding digital entrepreneurs"
+Ron Conway and Yuri Milner
+Offer Every New YC Startup $150k
+In 2005, Y Combinator developed a new model of startup funding.
+Twice a year we invest a small amount of money (average $18k) in a
+large number of startups (most recently 63).  The startups move to
+Silicon Valley for 3 months, during which we work intensively with
+them to get the company into the best possible shape and
+refine their pitch to investors.  Each cycle culminates in
+Demo Day
+, 
+when the startups present to a large audience of investors.
+But YC doesn't end on Demo Day.  We and the YC alumni network
+continue to help founders for the life of their company, and beyond.
+Since 2005 we've funded over 300 startups, including
+Loopt
+,
+Reddit
+,
+Clustrix
+,
+Wufoo
+,
+Scribd
+,
+Xobni
+,
+Weebly
+,
+Songkick
+,
+Disqus
+,
+Dropbox
+,
+ZumoDrive
+,
+Justin.tv
+,
+Heroku
+,
+A Thinking Ape
+,
+Posterous
+,
+Airbnb
+,
+Heyzap
+,
+Cloudkick
+,
+DailyBooth
+,
+WePay
+,
+Bump
+,
+Stripe
+,
+AeroFS
+,
+and
+Hipmunk
+.
+Learn more
+News
+|
+Apply
+|
+What We Do
+|
+Blog
+|
+People
+|
+Jobs
+|
+Quotes
+|
+FAQ
+|
+School
+|
+Contact
+|
+Lib

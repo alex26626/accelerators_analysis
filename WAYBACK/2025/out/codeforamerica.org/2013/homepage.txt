@@ -1,0 +1,129 @@
+The CfA Accelerator: Disruption as a Public Service
+The Wayback Machine - http://codeforamerica.org:80/accelerator/
+DISRUPTION AS A PUBLIC SERVICE
+Build the future of government tech. Deadline May 31.
+The Opportunity
+Program
+Graduates
+Team
+FAQ
+THE OPPORTUNITY
+The past few decades have seen staggering advances in technology, but government has been left behind, saddled with outdated and inefficient software, while costs have exploded into the hundreds of billions. That means there’s both the imperative and the market for new, disruptive startups.
+The Code for America Accelerator "turbo-charges" select civic startups by providing them an opportunity to amplify market awareness of their product, to access a wealth of business training and advice, and to be introduced to a broad network of potential investors and civic leaders.
+Applications for the 2013 class of the Accelerator are open until May 31st.
+Apply Now.
+Still not sure? Learn more about our
+criteria and timeline.
+IT spending
+in 2013
+Total: $140B
+Video game market: ~$10B
+iOS app market: ~$2B
+US CIO Budget Priorities
+State & Local IT Budgets: Deltek
+PROGRAM
+The four month program focuses on civic startups, providing them the network and training needed to grow their businesses. Every month, the startup teams are brought together in CfA’s San Francisco offices for an intensive week-long curriculum led by industry experts, coupled with networking events with investors. Throughout  the program, the startups have access to hands-on mentorship, administrative support, and office space. Companies also receive the opportunity to meet government officials through our network and our annual CfA Summit, which draws civic technology leaders from around the country.
+What We Offer
+A $25K grant to help you grow the business; no strings attached. We're not asking for any equity — we just want to help.
+A place to work in San Francisco if you want it — with desks, wifi, snacks, and (at least a few) cool people.
+Access to and support from a rockstar set of industry, VC, and civic leaders — all committed to your success.
+Direct connections to the folks you're trying to work with: tech-savvy government decision-makers.
+A big (and growing) stage for the world to become aware of your company, team, and product.
+Trainings from the industry's best on how to build a business, generate revenue, market, and scale.
+Graduates
+The inaugural class of the 2012 Accelerator is composed of seven civic startups developing real, sustainable solutions for challenges faced by our governments. Chosen from more than 235 applicants by Tim O'Reilly, Ron Bouganim, and a board of government technology leaders, the Accelerator startups represent a select pool of talent, potential, and passion necessary to advance civic technology in today's marketplace. In 2012, these companies received more than 100 hours of mentorship from industry leaders, pitched to more than 250 government officials at our annual CfA Summit, and gained connections to numerous investors and sales leads. Learn more about the
+companies
+.
+2012 Startups
+Aunt Bertha simplifies the search and application process for social services. We collect information on federal, state, county, city, neighborhood and nonprofit programs and put it all in one place. In just a few seconds, users can enter basic information and find programs relevant to their needs.
+Captricity offers a completely self-serve data entry service for digitizing paper forms. We can get data off of paper and into a digital spreadsheet quickly and cheaply, providing human-quality data entry that works on hand-writing — but at a fraction of what manual data entry costs.
+LearnSprout brings interoperability and accessibility to school data. We build tools to access school data currently silo-ed away in legacy student information systems used across US K12. We’re creating a web API service that allows developers to build classroom apps that leverage this data, without the expensive enterprise-like vendor integration process.
+Measured Voice (MV) is a web-based social media management system (SMMS) designed to help government organizations create, publish, and measure social media content. Measured Voice helps users manage multiple social media accounts, enact publishing workflow, delineate team roles, and measure results and team performance through a simple interface.
+MindMixer is an engagement tool that activates community contributors. Ideas, voices, and perspectives are shared to facilitate deeper conversations that yield actionable insights. The tool has helped create a network of contributors in more than 250 organizations around the country.
+We’re building a toolkit for community powered disaster recovery. Our disaster response platform at [townname].recovers.org incorporates searchable databases, social media aggregation, and mobile tools, allowing grassroots organizers to efficiently marshal resources in their area.
+Revelstone is a performance metrics and social networking company for the public sector. We are building an online virtual community that enables local government leaders to measure, compare and discuss operational performance results with their peers in order to learn from each other to improve.
+TEAM
+Accelerator companies have access to dozens of leading government officials with unique insight into the civic space, entrepreneurs with first-hand experience starting companies, and industry leaders with the know-how of taking a business to scale. In 2012, our advisors supported the growth of the Accelerator from concept to reality. In 2013, we will be building the program and the network of advisors even further. We look forward to announcing the full line-up of advisors for the 2013 class soon.
+2012 Leadership
+Mentors
+Startup/Biz
+Akash Garg
+Ben Berkowitz
+Carl Tashian
+Christian Crumlish
+Christie George
+Cyd Harrell
+Danese Cooper
+David Binetti
+Denise Gershbein
+DJ Patil
+John Lyman
+Ivan Kirigin
+Lane Becker
+Manish Shah
+Parker Thompson
+Ryan Alfred
+Stephen Bronstein
+Ted Rheingold
+Zal Bilimoria
+Civic/Gov
+Andrew Hoppin
+Chris Osgood
+Bob Richardson
+Dominic Campbell
+Jay Nath
+Jeff Friedman
+John Tolva
+Kevin Merritt
+Marci Harris
+Micki Krimmel
+Mike Alfred
+Nigel Jacob
+Ryan Alfred
+Sumit Agarwal
+Steve Ressler
+VC/Investors
+Andrew Parker
+Bryce Roberts
+Cali Tran
+Gil Penchina
+Jeff Clavier
+Renee DiResta
+Robert Goldberg
+FAQ
+Got questions? Good. Here are some answers, and we'll keep adding to the list over time. Still not sure about something? No problem.  Drop us a line (
+email
+or
+@codeforamerica
+), and we'll get you squared away.
+What is the CfA Accelerator?
+The CfA Accelerator is an early stage seed startup accelerator focused on the civic space – that is, government, community, and the interaction between the two. Increasingly the way in which we engage with government is channeled through technology, which means there's a tremendous opportunity for entrepreneurs to build new, successful, and profitable startups that make the experience more like the consumer web. The CfA Accelerator aims to help early-stage civic startups get the financial, strategic, and operational support they need to succeed.
+What's a civic startup?
+Good question. We see three models for startups that would fall within the civic space: 1) they provide services on top of open government data; 2) they bring modern web technologies directly to governments; 3) they change the way citizens request or receive services from government.
+Who should apply?
+Applicants should fit our definition of what it means to be a civic startup. Preference will be given to applicants that:
+1) are for-profit companies
+2) are products/services focused vs. consulting oriented
+3) have product-market fit (the product addresses a defined problem set for a known customer market)
+4) sell directly, but not necessarily exclusively, to government
+5) have generated some amount of revenue from customers
+What's the selection timeline?
+1) April 15th - Applications Opened
+2) May 31st - Application Deadline
+3) Week of June 24th - Communications to Finalists/Interviews
+4) Week of July 1st- Startups Announced
+5) August - Program Start
+6) October 15th-17th - CfA Summit
+7) November - Program Ends
+What is Code for America?
+Founded by
+Jennifer Pahlka
+in 2009,
+Code for America
+is a non-profit that's trying to make government work more like the Internet: more open, more efficient, and more collaborative. Code for America launched with the CfA Fellowship, an annual program, which pairs passionate technologists with innovative city governments to build new solutions to civic problems. (To learn more about the broader context of CfA's work, see Jen's recent
+TED Talk
+.)
+The CfA Accelerator is an outgrowth of our learnings from the fellowship; primarily a realization that while change from the inside of government is necessary, it must come from the outside as well.
+The Application
+← Go Back Home
+Fill out my Wufoo form!

@@ -1,0 +1,714 @@
+<!doctype html>
+<html lang="en-US">
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=1B2M2Y8A" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("http://web.archive.org/web");
+  __wm.wombat("http://www.velocityindiana.org/accelerator/","20150331135813","http://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1427810293");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1B2M2Y8A" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=1B2M2Y8A" />
+<!-- End Wayback Rewrite JS Include -->
+
+ 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMBVVBACwAGV1RTBg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+ 
+<title> Accelerator | Velocity</title>
+<link rel="alternate" type="application/rss+xml" title="Velocity � Feed" href="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Velocity � Comments Feed" href="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/comments/feed/"/>
+<meta property="og:site_name" content="Velocity"/><meta property="og:url" content="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/accelerator/"/><meta property="og:title" content="Accelerator"/><meta property="og:type" content="article"/><link rel="stylesheet" id="js_composer_front-css" href="http://web.archive.org/web/20150331135813cs_/http://www.velocityindiana.org/wp-content/themes/salient/wpbakery/js_composer/assets/css/js_composer_front.css?ver=3.7.3" type="text/css" media="all"/>
+<link rel="stylesheet" id="options_typography_Open+Sans-600-css" href="http://web.archive.org/web/20150331135813cs_/https://fonts.googleapis.com/css?family=Open+Sans:600" type="text/css" media="all"/>
+<link rel="stylesheet" id="options_typography_Open+Sans-800-css" href="http://web.archive.org/web/20150331135813cs_/https://fonts.googleapis.com/css?family=Open+Sans:800" type="text/css" media="all"/>
+<link rel="stylesheet" id="options_typography_Molengo-regular-css" href="http://web.archive.org/web/20150331135813cs_/https://fonts.googleapis.com/css?family=Molengo:regular" type="text/css" media="all"/>
+<link rel="stylesheet" id="options_typography_Open+Sans-700-css" href="http://web.archive.org/web/20150331135813cs_/https://fonts.googleapis.com/css?family=Open+Sans:700" type="text/css" media="all"/>
+<link rel="stylesheet" id="rgs-css" href="http://web.archive.org/web/20150331135813cs_/http://www.velocityindiana.org/wp-content/themes/salient/css/rgs.css?ver=4.8.1" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="http://web.archive.org/web/20150331135813cs_/http://www.velocityindiana.org/wp-content/themes/salient/css/font-awesome.min.css?ver=4.1.1" type="text/css" media="all"/>
+<link rel="stylesheet" id="main-styles-css" href="http://web.archive.org/web/20150331135813cs_/http://www.velocityindiana.org/wp-content/themes/salient/style.css?ver=4.8.1" type="text/css" media="all"/>
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='nectar-ie8-css'  href='http://www.velocityindiana.org/wp-content/themes/salient/css/ie8.css?ver=4.1.1' type='text/css' media='all' />
+<![endif]-->
+<link rel="stylesheet" id="responsive-css" href="http://web.archive.org/web/20150331135813cs_/http://www.velocityindiana.org/wp-content/themes/salient/css/responsive.css?ver=4.8.1" type="text/css" media="all"/>
+<script type="text/javascript" src="http://web.archive.org/web/20150331135813js_/http://www.velocityindiana.org/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20150331135813js_/http://www.velocityindiana.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20150331135813js_/http://www.velocityindiana.org/wp-content/themes/salient/js/modernizr.js?ver=2.6.2"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.velocityindiana.org/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.velocityindiana.org/wp-includes/wlwmanifest.xml"/>
+<meta name="generator" content="WordPress 4.1.1"/>
+<link rel="canonical" href="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/accelerator/"/>
+<link rel="shortlink" href="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/?p=2177"/>
+<style type="text/css">body a{color:#c6222f;}header#top nav ul li a:hover,header#top nav .sf-menu li.sfHover>a,header#top nav .sf-menu li.current-menu-item>a,header#top nav .sf-menu li.current_page_item>a .sf-sub-indicator i,header#top nav .sf-menu li.current_page_ancestor>a .sf-sub-indicator i,header#top nav ul li a:hover,header#top nav .sf-menu li.sfHover>a,header#top nav .sf-menu li.current_page_ancestor>a,header#top nav .sf-menu li.current-menu-ancestor>a,header#top nav .sf-menu li.current_page_item>a,body header#top nav .sf-menu li.current_page_item>a .sf-sub-indicator [class^="icon-"],header#top nav .sf-menu li.current_page_ancestor>a .sf-sub-indicator [class^="icon-"],header#top nav .sf-menu li.current-menu-ancestor>a,header#top nav .sf-menu li.current_page_item>a,.sf-menu li ul li.sfHover>a .sf-sub-indicator [class^="icon-"],ul.sf-menu>li>a:hover>.sf-sub-indicator i,ul.sf-menu>li>a:active>.sf-sub-indicator i,ul.sf-menu>li.sfHover>a>.sf-sub-indicator i,.sf-menu ul li.current_page_item>a,.sf-menu ul li.current-menu-ancestor>a,.sf-menu ul li.current_page_ancestor>a,.sf-menu ul a:focus,.sf-menu ul a:hover,.sf-menu ul a:active,.sf-menu ul li:hover>a,.sf-menu ul li.sfHover>a,.sf-menu li ul li a:hover,.sf-menu li ul li.sfHover>a,#footer-outer a:hover,.recent-posts .post-header a:hover,article.post .post-header a:hover,article.result a:hover,article.post .post-header h2 a,.single article.post .post-meta a:hover,.comment-list .comment-meta a:hover,label span,.wpcf7-form p span,.icon-3x[class^="icon-"],.icon-3x[class*=" icon-"],.icon-tiny[class^="icon-"],.circle-border,article.result .title a,.home .blog-recent .col .post-header a:hover,.home .blog-recent .col .post-header h3 a,#single-below-header a:hover,header#top #logo:hover,.sf-menu>li.current_page_ancestor>a>.sf-sub-indicator [class^="icon-"],.sf-menu>li.current-menu-ancestor>a>.sf-sub-indicator [class^="icon-"],body #mobile-menu li.open>a [class^="icon-"],.pricing-column h3,.comment-author a:hover,.project-attrs li i,#footer-outer #copyright li a i:hover,.col:hover>[class^="icon-"].icon-3x.accent-color.alt-style.hovered,.col:hover>[class*=" icon-"].icon-3x.accent-color.alt-style.hovered,#header-outer .widget_shopping_cart .cart_list a,.woocommerce .star-rating,.woocommerce-page table.cart a.remove,.woocommerce form .form-row .required,.woocommerce-page form .form-row .required,body #header-secondary-outer #social a:hover i,.woocommerce ul.products li.product .price,body .twitter-share:hover i,.twitter-share.hovered i,body .linkedin-share:hover i,.linkedin-share.hovered i,body .google-plus-share:hover i,.google-plus-share.hovered i,.pinterest-share:hover i,.pinterest-share.hovered i,.facebook-share:hover i,.facebook-share.hovered i,.woocommerce-page ul.products li.product .price,.nectar-milestone .number.accent-color,header#top nav>ul>li.megamenu>ul>li>a:hover,header#top nav>ul>li.megamenu>ul>li.sfHover>a,body #portfolio-nav a:hover i,span.accent-color,.nectar-love:hover i,.nectar-love.loved i,.portfolio-items .nectar-love:hover i,.portfolio-items .nectar-love.loved i,body .hovered .nectar-love i,header#top nav ul #search-btn a:hover span,header#top nav ul .slide-out-widget-area-toggle a:hover span,#search-outer #search #close a span:hover,.carousel-wrap[data-full-width="true"] .carousel-heading a:hover i,#search-outer .ui-widget-content li:hover a .title,#search-outer .ui-widget-content .ui-state-hover .title,#search-outer .ui-widget-content .ui-state-focus .title,#portfolio-filters-inline .container ul li a.active,body [class^="icon-"].icon-default-style,.team-member a.accent-color:hover,.ascend .comment-list .reply a,.wpcf7-form .wpcf7-not-valid-tip,.text_on_hover.product .add_to_cart_button{color:#c6222f!important;}.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.accent-color.alt-style.hovered,body .col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.accent-color.alt-style.hovered,.ascend #header-outer:not(.transparent) .cart-outer:hover .cart-menu-wrap:not(.has_products) .icon-salient-cart{color:#c6222f!important;}.orbit-wrapper div.slider-nav span.right,.orbit-wrapper div.slider-nav span.left,.flex-direction-nav a,.jp-play-bar,.jp-volume-bar-value,.jcarousel-prev:hover,.jcarousel-next:hover,.portfolio-items .col[data-default-color="true"] .work-info-bg,.portfolio-items .col[data-default-color="true"] .bottom-meta,#portfolio-filters a,#portfolio-filters #sort-portfolio,.project-attrs li span,.progress li span,.nectar-progress-bar span,#footer-outer #footer-widgets .col .tagcloud a:hover,#sidebar .widget .tagcloud a:hover,article.post .more-link span:hover,article.post.quote .post-content .quote-inner,article.post.link .post-content .link-inner,#pagination .next a:hover,#pagination .prev a:hover,.comment-list .reply a:hover,input[type=submit]:hover,input[type="button"]:hover,#footer-outer #copyright li a.vimeo:hover,#footer-outer #copyright li a.behance:hover,.toggle.open h3 a,.tabbed>ul li a.active-tab,[class*=" icon-"],.icon-normal,.bar_graph li span,.nectar-button[data-color-override="false"].regular-button,.nectar-button.tilt.accent-color,body .swiper-slide .button.transparent_2 a.primary-color:hover,#footer-outer #footer-widgets .col input[type="submit"],.carousel-prev:hover,.carousel-next:hover,.blog-recent .more-link span:hover,.post-tags a:hover,.pricing-column.highlight h3,#to-top:hover,#to-top.dark:hover,#pagination a.page-numbers:hover,#pagination span.page-numbers.current,.single-portfolio .facebook-share a:hover,.single-portfolio .twitter-share a:hover,.single-portfolio .pinterest-share a:hover,.single-post .facebook-share a:hover,.single-post .twitter-share a:hover,.single-post .pinterest-share a:hover,.mejs-controls .mejs-time-rail .mejs-time-current,.mejs-controls .mejs-volume-button .mejs-volume-slider .mejs-volume-current,.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,article.post.quote .post-content .quote-inner,article.post.link .post-content .link-inner,article.format-status .post-content .status-inner,article.post.format-aside .aside-inner,body #header-secondary-outer #social li a.behance:hover,body #header-secondary-outer #social li a.vimeo:hover,#sidebar .widget:hover [class^="icon-"].icon-3x,.woocommerce-page div[data-project-style="text_on_hover"] .single_add_to_cart_button,article.post.quote .content-inner .quote-inner .whole-link,.iosSlider .prev_slide:hover,.iosSlider .next_slide:hover,body [class^="icon-"].icon-3x.alt-style.accent-color,body [class*=" icon-"].icon-3x.alt-style.accent-color,#slide-out-widget-area,#header-outer .widget_shopping_cart a.button,#header-outer a.cart-contents span,.swiper-slide .button.solid_color a,.swiper-slide .button.solid_color_2 a,#portfolio-filters,button[type=submit]:hover,#buddypress button:hover,#buddypress a.button:hover,#buddypress ul.button-nav li.current a,header#top nav ul .slide-out-widget-area-toggle a:hover i.lines,header#top nav ul .slide-out-widget-area-toggle a:hover i.lines:after,header#top nav ul .slide-out-widget-area-toggle a:hover i.lines:before,#buddypress a.button:focus,.text_on_hover.product a.added_to_cart,.woocommerce div.product .woocommerce-tabs .full-width-content ul.tabs li a:after,.woocommerce div[data-project-style="text_on_hover"] .cart .quantity input.minus,.woocommerce div[data-project-style="text_on_hover"] .cart .quantity input.plus,.woocommerce .span_4 input[type="submit"].checkout-button{background-color:#c6222f!important;}.col:hover>[class^="icon-"].icon-3x:not(.alt-style).accent-color.hovered,.col:hover>[class*=" icon-"].icon-3x:not(.alt-style).accent-color.hovered,body .nectar-button.see-through-2[data-hover-color-override="false"]:hover,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x:not(.alt-style).accent-color.hovered,.col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x:not(.alt-style).accent-color.hovered{background-color:#c6222f!important;}.tabbed>ul li a.active-tab,body .recent_projects_widget a:hover img,.recent_projects_widget a:hover img,#sidebar #flickr a:hover img,body .nectar-button.see-through-2[data-hover-color-override="false"]:hover,#footer-outer #flickr a:hover img,#featured article .post-title a:hover,body #featured article .post-title a:hover,div.wpcf7-validation-errors{border-color:#c6222f!important;}.default-loading-icon:before{border-top-color:#c6222f!important;}#header-outer a.cart-contents span:before{border-color:transparent #c6222f;}.col:not(#post-area):not(.span_12):not(#sidebar):hover .hovered .circle-border,#sidebar .widget:hover .circle-border{border-color:#c6222f;}.gallery a:hover img{border-color:#c6222f!important;}@media only screen and (min-width :1px) and (max-width :1000px){body #featured article .post-title>a{background-color:#c6222f;}body #featured article .post-title>a{border-color:#c6222f;}}.nectar-button.regular-button.extra-color-1,.nectar-button.tilt.extra-color-1{background-color:#f6653c!important;}.icon-3x[class^="icon-"].extra-color-1:not(.alt-style),.icon-tiny[class^="icon-"].extra-color-1,.icon-3x[class*=" icon-"].extra-color-1:not(.alt-style),.icon-3x[class*=" icon-"].extra-color-1:not(.alt-style) .circle-border,.woocommerce-page table.cart a.remove,.nectar-milestone .number.extra-color-1,span.extra-color-1,.team-member ul.social.extra-color-1 li a,.stock.out-of-stock,body [class^="icon-"].icon-default-style.extra-color-1,.team-member a.extra-color-1:hover{color:#f6653c!important;}.col:hover>[class^="icon-"].icon-3x.extra-color-1:not(.alt-style),.col:hover>[class*=" icon-"].icon-3x.extra-color-1:not(.alt-style).hovered,body .swiper-slide .button.transparent_2 a.extra-color-1:hover,body .col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-1:not(.alt-style).hovered,body .col:not(#post-area):not(#sidebar):not(.span_12):hover a [class*=" icon-"].icon-3x.extra-color-1:not(.alt-style).hovered,#sidebar .widget:hover [class^="icon-"].icon-3x.extra-color-1:not(.alt-style){background-color:#f6653c!important;}body [class^="icon-"].icon-3x.alt-style.extra-color-1,body [class*=" icon-"].icon-3x.alt-style.extra-color-1,[class*=" icon-"].extra-color-1.icon-normal,.extra-color-1.icon-normal,.bar_graph li span.extra-color-1,.nectar-progress-bar span.extra-color-1,#header-outer .widget_shopping_cart a.button,.woocommerce ul.products li.product .onsale,.woocommerce-page ul.products li.product .onsale,.woocommerce span.onsale,.woocommerce-page span.onsale,.woocommerce-page table.cart a.remove:hover,.swiper-slide .button.solid_color a.extra-color-1,.swiper-slide .button.solid_color_2 a.extra-color-1,.toggle.open.extra-color-1 h3 a{background-color:#f6653c!important;}.col:hover>[class^="icon-"].icon-3x.extra-color-1.alt-style.hovered,.col:hover>[class*=" icon-"].icon-3x.extra-color-1.alt-style.hovered,.no-highlight.extra-color-1 h3,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-1.alt-style.hovered,body .col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.extra-color-1.alt-style.hovered{color:#f6653c!important;}.col:not(#post-area):not(.span_12):not(#sidebar):hover .extra-color-1.hovered .circle-border,.woocommerce-page table.cart a.remove,#sidebar .widget:hover .extra-color-1 .circle-border,.woocommerce-page table.cart a.remove{border-color:#f6653c;}.pricing-column.highlight.extra-color-1 h3{background-color:#f6653c!important;}.nectar-button.regular-button.extra-color-2,.nectar-button.tilt.extra-color-2{background-color:#2AC4EA!important;}.icon-3x[class^="icon-"].extra-color-2:not(.alt-style),.icon-3x[class*=" icon-"].extra-color-2:not(.alt-style),.icon-tiny[class^="icon-"].extra-color-2,.icon-3x[class*=" icon-"].extra-color-2 .circle-border,.nectar-milestone .number.extra-color-2,span.extra-color-2,.team-member ul.social.extra-color-2 li a,body [class^="icon-"].icon-default-style.extra-color-2,.team-member a.extra-color-2:hover{color:#2AC4EA!important;}.col:hover>[class^="icon-"].icon-3x.extra-color-2:not(.alt-style).hovered,.col:hover>[class*=" icon-"].icon-3x.extra-color-2:not(.alt-style).hovered,body .swiper-slide .button.transparent_2 a.extra-color-2:hover,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-2:not(.alt-style).hovered,.col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.extra-color-2:not(.alt-style).hovered,#sidebar .widget:hover [class^="icon-"].icon-3x.extra-color-2:not(.alt-style){background-color:#2AC4EA!important;}body [class^="icon-"].icon-3x.alt-style.extra-color-2,body [class*=" icon-"].icon-3x.alt-style.extra-color-2,[class*=" icon-"].extra-color-2.icon-normal,.extra-color-2.icon-normal,.bar_graph li span.extra-color-2,.nectar-progress-bar span.extra-color-2,.woocommerce .product-wrap .add_to_cart_button.added,.woocommerce-message,.woocommerce-error,.woocommerce-info,.woocommerce .widget_price_filter .ui-slider .ui-slider-range,.woocommerce-page .widget_price_filter .ui-slider .ui-slider-range,.swiper-slide .button.solid_color a.extra-color-2,.swiper-slide .button.solid_color_2 a.extra-color-2,.toggle.open.extra-color-2 h3 a{background-color:#2AC4EA!important;}.col:hover>[class^="icon-"].icon-3x.extra-color-2.alt-style.hovered,.col:hover>[class*=" icon-"].icon-3x.extra-color-2.alt-style.hovered,.no-highlight.extra-color-2 h3,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-2.alt-style.hovered,body .col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.extra-color-2.alt-style.hovered{color:#2AC4EA!important;}.col:not(#post-area):not(.span_12):not(#sidebar):hover .extra-color-2.hovered .circle-border,#sidebar .widget:hover .extra-color-2 .circle-border{border-color:#2AC4EA;}.pricing-column.highlight.extra-color-2 h3{background-color:#2AC4EA!important;}.nectar-button.regular-button.extra-color-3,.nectar-button.tilt.extra-color-3{background-color:#333333!important;}.icon-3x[class^="icon-"].extra-color-3:not(.alt-style),.icon-3x[class*=" icon-"].extra-color-3:not(.alt-style),.icon-tiny[class^="icon-"].extra-color-3,.icon-3x[class*=" icon-"].extra-color-3 .circle-border,.nectar-milestone .number.extra-color-3,span.extra-color-3,.team-member ul.social.extra-color-3 li a,body [class^="icon-"].icon-default-style.extra-color-3,.team-member a.extra-color-3:hover{color:#333333!important;}.col:hover>[class^="icon-"].icon-3x.extra-color-3:not(.alt-style).hovered,.col:hover>[class*=" icon-"].icon-3x.extra-color-3:not(.alt-style).hovered,body .swiper-slide .button.transparent_2 a.extra-color-3:hover,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-3:not(.alt-style).hovered,.col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.extra-color-3:not(.alt-style).hovered,#sidebar .widget:hover [class^="icon-"].icon-3x.extra-color-3:not(.alt-style){background-color:#333333!important;}body [class^="icon-"].icon-3x.alt-style.extra-color-3,body [class*=" icon-"].icon-3x.alt-style.extra-color-3,.extra-color-3.icon-normal,[class*=" icon-"].extra-color-3.icon-normal,.bar_graph li span.extra-color-3,.nectar-progress-bar span.extra-color-3,.swiper-slide .button.solid_color a.extra-color-3,.swiper-slide .button.solid_color_2 a.extra-color-3,.toggle.open.extra-color-3 h3 a{background-color:#333333!important;}.col:hover>[class^="icon-"].icon-3x.extra-color-3.alt-style.hovered,.col:hover>[class*=" icon-"].icon-3x.extra-color-3.alt-style.hovered,.no-highlight.extra-color-3 h3,.col:not(#post-area):not(.span_12):not(#sidebar):hover [class^="icon-"].icon-3x.extra-color-3.alt-style.hovered,body .col:not(#post-area):not(.span_12):not(#sidebar):hover a [class*=" icon-"].icon-3x.extra-color-3.alt-style.hovered{color:#333333!important;}.col:not(#post-area):not(.span_12):not(#sidebar):hover .extra-color-3.hovered .circle-border,#sidebar .widget:hover .extra-color-3 .circle-border{border-color:#333333;}.pricing-column.highlight.extra-color-3 h3{background-color:#333333!important;}body #header-outer,body #search-outer{background-color:#c6222f;}header#top nav>ul>li>a,header#top #logo,header#top .span_9>.slide-out-widget-area-toggle i,.sf-sub-indicator [class^="icon-"],body[data-header-color="custom"].ascend #boxed #header-outer .cart-menu .cart-icon-wrap i,body.ascend #boxed #header-outer .cart-menu .cart-icon-wrap i,.sf-sub-indicator [class*=" icon-"],header#top nav ul #search-btn a span,header#top #toggle-nav i,header#top #toggle-nav i,header#top #mobile-cart-link i,#header-outer .cart-menu .cart-icon-wrap .icon-salient-cart,#search-outer #search input[type="text"],#search-outer #search #close a span{color:#070707!important;}header#top nav ul .slide-out-widget-area-toggle a i.lines,header#top nav ul .slide-out-widget-area-toggle a i.lines:after,header#top nav ul .slide-out-widget-area-toggle a i.lines:before{background-color:#070707!important;}body header#top nav>ul>li>a:hover,header#top #logo:hover,body header#top nav .sf-menu>li.sfHover>a,body header#top nav .sf-menu>li.current-menu-item>a,body header#top nav .sf-menu>li.current_page_item>a .sf-sub-indicator i,body header#top nav .sf-menu>li.current_page_ancestor>a .sf-sub-indicator i,body header#top nav .sf-menu>li.sfHover>a,body header#top nav .sf-menu>li.current_page_ancestor>a,body header#top nav .sf-menu>li.current-menu-ancestor>a,body header#top nav .sf-menu>li.current-menu-ancestor>a i,body header#top nav .sf-menu>li.current_page_item>a,body header#top nav .sf-menu>li.current_page_item>a .sf-sub-indicator [class^="icon-"],body header#top nav .sf-menu>li.current_page_ancestor>a .sf-sub-indicator [class^="icon-"],body header#top nav .sf-menu>li.current-menu-ancestor>a,body .sf-menu>li.sfHover>a .sf-sub-indicator [class^="icon-"],body .sf-menu>li:hover>a .sf-sub-indicator [class^="icon-"],body .sf-menu>li:hover>a,header#top nav ul #search-btn a:hover span,header#top nav ul .slide-out-widget-area-toggle a:hover span,#search-outer #search #close a span:hover{color:#ffffff!important;}header#top nav ul .slide-out-widget-area-toggle a:hover i.lines,header#top nav ul .slide-out-widget-area-toggle a:hover i.lines:after,header#top nav ul .slide-out-widget-area-toggle a:hover i.lines:before{background-color:#ffffff!important;}#search-outer .ui-widget-content,header#top .sf-menu li ul li a,header#top nav>ul>li.megamenu>ul.sub-menu,body header#top nav>ul>li.megamenu>ul.sub-menu>li>a,#header-outer .widget_shopping_cart .cart_list a,#header-secondary-outer ul ul li a,#header-outer .widget_shopping_cart .cart_list li,.woocommerce .cart-notification,#header-outer .widget_shopping_cart_content{background-color:#1F1F1F!important;}header#top .sf-menu li ul li a:hover,body header#top nav .sf-menu ul li.sfHover>a,header#top .sf-menu li ul li.current-menu-item>a,header#top .sf-menu li ul li.current-menu-ancestor>a,header#top nav>ul>li.megamenu>ul ul li a:hover,header#top nav>ul>li.megamenu>ul ul li.current-menu-item a,#header-secondary-outer ul ul li a:hover,body #header-secondary-outer .sf-menu ul li.sfHover>a,#header-outer .widget_shopping_cart .cart_list li:hover,#header-outer .widget_shopping_cart .cart_list li:hover a,#search-outer .ui-widget-content li:hover,.ui-state-hover,.ui-widget-content .ui-state-hover,.ui-widget-header .ui-state-hover,.ui-state-focus,.ui-widget-content .ui-state-focus,.ui-widget-header .ui-state-focus{background-color:#313233!important;}#search-outer .ui-widget-content li a,#search-outer .ui-widget-content i,header#top .sf-menu li ul li a,body #header-outer .widget_shopping_cart .cart_list a,#header-secondary-outer ul ul li a,.woocommerce .cart-notification .item-name,.cart-outer .cart-notification,.sf-menu li ul .sf-sub-indicator [class^="icon-"],.sf-menu li ul .sf-sub-indicator [class*=" icon-"],#header-outer .widget_shopping_cart .quantity{color:#CCCCCC!important;}#search-outer .ui-widget-content li:hover a .title,#search-outer .ui-widget-content .ui-state-hover .title,#search-outer .ui-widget-content .ui-state-focus .title,#search-outer .ui-widget-content li:hover a,#search-outer .ui-widget-content li:hover i,#search-outer .ui-widget-content .ui-state-hover a,#search-outer .ui-widget-content .ui-state-focus a,#search-outer .ui-widget-content .ui-state-hover i,#search-outer .ui-widget-content .ui-state-focus i,#search-outer .ui-widget-content .ui-state-hover span,#search-outer .ui-widget-content .ui-state-focus span,body header#top nav .sf-menu ul li.sfHover>a,header#top nav>ul>li.megamenu>ul ul li.current-menu-item a,body #header-outer .widget_shopping_cart .cart_list li:hover a,#header-secondary-outer ul ul li:hover>a,body #header-secondary-outer ul ul li:hover>a i,body header#top nav .sf-menu ul li.sfHover>a .sf-sub-indicator i,#header-outer .widget_shopping_cart li:hover .quantity,body header#top nav .sf-menu ul li:hover>a .sf-sub-indicator i,body header#top nav .sf-menu ul li:hover>a,header#top nav>ul>li.megamenu>ul>li>a:hover,header#top nav>ul>li.megamenu>ul>li.sfHover>a,body header#top nav .sf-menu ul li.current-menu-item>a,body header#top nav .sf-menu ul li.current_page_item>a .sf-sub-indicator i,body header#top nav .sf-menu ul li.current_page_ancestor>a .sf-sub-indicator i,body header#top nav .sf-menu ul li.sfHover>a,#header-secondary-outer ul li.sfHover>a,body header#top nav .sf-menu ul li.current_page_ancestor>a,body header#top nav .sf-menu ul li.current-menu-ancestor>a,body header#top nav .sf-menu ul li.current_page_item>a,body header#top nav .sf-menu ul li.current_page_item>a .sf-sub-indicator [class^="icon-"],body header#top nav .sf-menu ul li.current_page_ancestor>a .sf-sub-indicator [class^="icon-"],body header#top nav .sf-menu ul li.current-menu-ancestor>a,body header#top nav .sf-menu ul li.current_page_item>a,body .sf-menu ul li ul li.sfHover>a .sf-sub-indicator [class^="icon-"],body ul.sf-menu>li>a:active>.sf-sub-indicator i,body ul.sf-menu>li.sfHover>a>.sf-sub-indicator i,body .sf-menu ul li.current_page_item>a,body .sf-menu ul li.current-menu-ancestor>a,body .sf-menu ul li.current_page_ancestor>a,body .sf-menu ul a:focus,body .sf-menu ul a:hover,body .sf-menu ul a:active,body .sf-menu ul li:hover>a,body .sf-menu ul li.sfHover>a,.body sf-menu li ul li a:hover,body .sf-menu li ul li.sfHover>a,body header#top nav>ul>li.megamenu ul li:hover>a{color:#27CCC0!important;}#header-secondary-outer{background-color:#ffffff!important;}#header-secondary-outer nav>ul>li>a,body #header-secondary-outer nav>ul>li>a span.sf-sub-indicator [class^="icon-"],#header-secondary-outer #social li a i{color:#666666!important;}#header-secondary-outer #social li a:hover i,#header-secondary-outer nav>ul>li:hover>a,#header-secondary-outer nav>ul>li.current-menu-item>a,#header-secondary-outer nav>ul>li.sfHover>a,#header-secondary-outer nav>ul>li.sfHover>a span.sf-sub-indicator [class^="icon-"],#header-secondary-outer nav>ul>li.current-menu-item>a span.sf-sub-indicator [class^="icon-"],#header-secondary-outer nav>ul>li.current-menu-ancestor>a,#header-secondary-outer nav>ul>li.current-menu-ancestor>a span.sf-sub-indicator [class^="icon-"],body #header-secondary-outer nav>ul>li:hover>a span.sf-sub-indicator [class^="icon-"]{color:#222222!important;}#call-to-action{background-color:#ECEBE9!important;}#call-to-action span{color:#4B4F52!important;}</style><style type="text/css">#header-outer{padding-top:20px;}#header-outer #logo img{height:40px;}#header-outer[data-format="centered-menu-under-logo"] header#top #logo .starting-logo{margin-top:-57px;}header#top nav>ul>li>a{padding-bottom:30px;padding-top:10px;}#header-outer .cart-menu{padding-bottom:29px;padding-top:29px;}header#top nav>ul li#search-btn,header#top nav>ul li.slide-out-widget-area-toggle{padding-bottom:9px;padding-top:10px;}header#top .sf-menu>li.sfHover>ul{top:19px;}.sf-sub-indicator{height:13px;}#header-space{height:80px;}body[data-smooth-scrolling="1"] #full_width_portfolio .project-title.parallax-effect{top:80px;}body.single-product div.product .product_title{padding-right:0;}@media only screen and (min-width:1000px) and (max-width:1300px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,.full-width-content .vc_span12 .swiper-slide .content h2{font-size:52.5px!important;line-height:59.5px!important;}.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:22.5px!important;line-height:39px!important;}}@media only screen and (min-width :690px) and (max-width :1000px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,.full-width-content .vc_span12 .swiper-slide .content h2{font-size:38.5px!important;line-height:45.5px!important;}.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:16.5px!important;line-height:30px!important;}}@media only screen and (max-width :690px){.nectar-slider-wrap[data-full-width="true"][data-fullscreen="false"] .swiper-slide .content h2,.nectar-slider-wrap[data-full-width="boxed-full-width"][data-fullscreen="false"] .swiper-slide .content h2,.full-width-content .vc_span12 .nectar-slider-wrap[data-fullscreen="false"] .swiper-slide .content h2{font-size:17.5px!important;line-height:24.5px!important;}.nectar-slider-wrap[data-full-width="true"][data-fullscreen="false"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"][data-fullscreen="false"] .swiper-slide .content p,.full-width-content .vc_span12 .nectar-slider-wrap[data-fullscreen="false"] .swiper-slide .content p{font-size:9.6px!important;line-height:21.9px!important;}}</style><style type="text/css">@font-face{font-family:OpenSansLight;src:url('http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/themes/salient/css/fonts/default_ext_chars/OpenSans-Light-webfont.eot');src:url('http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/themes/salient/css/fonts/default_ext_chars/OpenSans-Light-webfont.eot#iefix') format('embedded-opentype'),url('http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/themes/salient/css/fonts/default_ext_chars/OpenSans-Light-webfont.woff') format('woff'),url('http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/themes/salient/css/fonts/default_ext_chars/OpenSans-Light-webfont.ttf') format('truetype'),url('http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/themes/salient/css/fonts/default_ext_chars/OpenSans-Light-webfont.svg#OpenSansLight') format('svg')!important}@font-face{font-family:OpenSansRegular;src:url('http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/themes/salient/css/fonts/default_ext_chars/OpenSans-Regular-webfont.eot');src:url('http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/themes/salient/css/fonts/default_ext_chars/OpenSans-Regular-webfont.eot#iefix') format('embedded-opentype'),url('http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/themes/salient/css/fonts/default_ext_chars/OpenSans-Regular-webfont.woff') format('woff'),url('http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/themes/salient/css/fonts/default_ext_chars/OpenSans-Regular-webfont.ttf') format('truetype'),url('http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/themes/salient/css/fonts/default_ext_chars/OpenSans-Regular-webfont.svg#OpenSansRegular') format('svg')!important}@font-face{font-family:OpenSansSemibold;src:url('http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/themes/salient/css/fonts/default_ext_chars/OpenSans-Semibold-webfont.eot');src:url('http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/themes/salient/css/fonts/default_ext_chars/OpenSans-Semibold-webfont.eot#iefix') format('embedded-opentype'),url('http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/themes/salient/css/fonts/default_ext_chars/OpenSans-Semibold-webfont.woff') format('woff'),url('http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/themes/salient/css/fonts/default_ext_chars/OpenSans-Semibold-webfont.ttf') format('truetype'),url('http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/themes/salient/css/fonts/default_ext_chars/OpenSans-Semibold-webfont.svg#OpenSansSemibold') format('svg')!important}@font-face{font-family:OpenSansBold;src:url('http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/themes/salient/css/fonts/default_ext_chars/OpenSans-Bold-webfont.eot');src:url('http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/themes/salient/css/fonts/default_ext_chars/OpenSans-Bold-webfont.eot#iefix') format('embedded-opentype'),url('http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/themes/salient/css/fonts/default_ext_chars/OpenSans-Bold-webfont.woff') format('woff'),url('http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/themes/salient/css/fonts/default_ext_chars/OpenSans-Bold-webfont.ttf') format('truetype'),url('http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/themes/salient/css/fonts/default_ext_chars/OpenSans-Bold-webfont.svg#OpenSansBold') format('svg')!important}</style>
+<style type="text/css"></style><style type="text/css">body,.toggle h3 a,body .ui-widget,table,.bar_graph li span strong,#search-results .result .title span,.woocommerce ul.products li.product h3,.woocommerce-page ul.products li.product h3,body .nectar-love span,body .nectar-social .nectar-love .nectar-love-count,body .carousel-heading h2{font-family:Open Sans;font-size:18px;line-height:32.4px;font-weight:600;}.bold,strong,b{font-family:Open Sans;font-weight:bold;}.nectar-fancy-ul ul li .icon-default-style[class^="icon-"]{line-height:32.4px!important;}header#top nav>ul>li>a{font-family:Open Sans;font-size:14px;line-height:19.6px;font-weight:600;}header#top .sf-menu li ul li a,#header-secondary-outer nav>ul>li>a,#header-secondary-outer ul ul li a,#header-outer .widget_shopping_cart .cart_list a{}@media only screen and (min-width :1px) and (max-width :1000px){header#top .sf-menu a{font-family:-!important;font-size:14px!important;}}#page-header-bg h1,body h1,body .row .col.section-title h1{font-family:Open Sans;font-size:60px;line-height:66px;font-weight:800;}@media only screen and (max-width:1300px) and (min-width:1000px),(max-width:690px){body .row .col.section-title h1,body h1{font-size:42px;line-height:46.2px;}}#page-header-bg h2,body h2,article.post .post-header h2,article.post.quote .post-content h2,article.post.link .post-content h2,article.post.format-status .post-content h2,#call-to-action span,.woocommerce .full-width-tabs #reviews h3{font-family:Open Sans;font-size:40px;line-height:66px;font-weight:800;}@media only screen and (max-width:1300px) and (min-width:1000px),(max-width:690px){.col h2{font-size:28px;line-height:46.2px;}}body h3,.row .col h3,.toggle h3 a,.ascend #respond h3,.ascend h3#comments,.woocommerce ul.products li.product.text_on_hover h3{font-family:Open Sans;font-size:30px;line-height:38px;font-weight:800;}@media only screen and (min-width:1000px){.ascend .comments-section .comment-wrap.full-width-section>h3{font-size:51px!important;line-height:59px!important;}}@media only screen and (max-width:1300px) and (min-width:1000px),(max-width:690px){.row .col h3{font-size:21px;line-height:26.6px;}}body h4,.row .col h4,.portfolio-items .work-meta h4,#respond h3,h3#comments{font-family:Open Sans;font-size:26px;line-height:36px;font-weight:800;}body h5,.row .col h5{font-family:Open Sans;font-size:20px;line-height:30px;font-weight:800;}body i,body em{line-height:;}body #page-header-bg h1,html body .row .col.section-title h1{}@media only screen and (min-width:690px) and (max-width:1000px){#page-header-bg .span_6 h1{font-size:;line-height:;}}@media only screen and (min-width:1000px) and (max-width:1300px){#page-header-bg .span_6 h1{font-size:;line-height:;}}body #page-header-bg .span_6 span.subheader,body .row .col.section-title>span{}@media only screen and (min-width:1000px) and (max-width:1300px){body #page-header-bg .span_6 span.subheader,body .row .col.section-title>span{font-size:;line-height:;}}.swiper-slide .content h2{font-family:Open Sans;font-size:70px;line-height:89px!important;font-weight:800;}@media only screen and (min-width:1000px) and (max-width:1300px){body .nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,body .nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,body .full-width-content .vc_span12 .swiper-slide .content h2{font-size:56px!important;line-height:71.2px!important;}}@media only screen and (min-width:690px) and (max-width:1000px){body .nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,body .nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,body .full-width-content .vc_span12 .swiper-slide .content h2{font-size:42px!important;line-height:53.4px!important;}}@media only screen and (max-width:690px){body .nectar-slider-wrap[data-full-width="true"] .swiper-slide .content h2,body .nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content h2,body .full-width-content .vc_span12 .swiper-slide .content h2{font-size:35px!important;line-height:44.5px!important;}}#featured article .post-title h2 span,.swiper-slide .content p,#portfolio-filters-inline #current-category,body .vc_text_separator div{font-family:Molengo;font-size:30px;line-height:49px!important;font-weight:regular;}#portfolio-filters-inline ul{line-height:49px!important;}.swiper-slide .content p.transparent-bg span{line-height:55px;}@media only screen and (min-width:1000px) and (max-width:1300px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:24px!important;line-height:39.2px!important;}}@media only screen and (min-width:690px) and (max-width:1000px){.nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,.nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,.full-width-content .vc_span12 .swiper-slide .content p{font-size:21px!important;line-height:34.3px!important;}}@media only screen and (max-width:690px){body .nectar-slider-wrap[data-full-width="true"] .swiper-slide .content p,body .nectar-slider-wrap[data-full-width="boxed-full-width"] .swiper-slide .content p,body .full-width-content .vc_span12 .swiper-slide .content p{font-size:21px!important;line-height:34.3px!important;}}.testimonial_slider blockquote,.testimonial_slider blockquote span,blockquote{}#footer-outer .widget h4,#sidebar h4,#call-to-action .container a,.uppercase,.nectar-button,body .widget_calendar table th,body #footer-outer #footer-widgets .col .widget_calendar table th,.swiper-slide .button a,header#top nav>ul>li.megamenu>ul>li>a,.carousel-heading h2,body .gform_wrapper .top_label .gfield_label,body .vc_pie_chart .wpb_pie_chart_heading,#infscr-loading div,#page-header-bg .author-section a,.ascend input[type="submit"],.ascend button[type="submit"],.widget h4,.text-on-hover-wrap .categories a,.text_on_hover.product .add_to_cart_button,.woocommerce-page div[data-project-style="text_on_hover"] .single_add_to_cart_button,.woocommerce div[data-project-style="text_on_hover"] .cart .quantity input.qty,.woocommerce-page #respond input#submit{font-family:Open Sans;font-size:20px;font-weight:700;}.team-member h4,.row .col.section-title p,.row .col.section-title span,#page-header-bg .subheader,.nectar-milestone .subject,.testimonial_slider blockquote span{font-family:Open Sans;font-size:20px;font-weight:800;}-6px!important;}</style><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<style type="text/css">#portfolio div.work-info-bg{background-color:transparent!important;}#portfolio div.work-info>div>h3{color:transparent!important;}.demoday>ul{background:rgba(0,0,0,0.6);}</style>
+</head>
+<body class="page page-id-2177 page-template-default wpb-js-composer js-comp-ver-3.7.3 vc_responsive" data-header-inherit-rc="false" data-header-search="true" data-animated-anchors="false" data-ajax-transitions="false" data-full-width-header="false" data-slide-out-widget-area="false" data-loading-animation="none" data-bg-header="true" data-ext-responsive="false" data-header-resize="0" data-header-color="custom" data-transparent-header="false" data-smooth-scrolling="0" data-responsive="1">
+<div id="header-space"></div>
+<div id="header-outer" data-has-menu="true" data-user-set-bg="#c6222f" data-format="default" data-cart="false" data-transparency-option="0" data-shrink-num="6" data-full-width="false" data-using-secondary="0" data-using-logo="1" data-logo-height="40" data-padding="20" data-header-resize="">
+<div id="search-outer" class="nectar">
+<div id="search">
+<div class="container">
+<div id="search-box">
+<div class="col span_12">
+<form action="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/" method="GET">
+<input type="text" name="s" id="s" value="Start Typing..." data-placeholder="Start Typing..."/>
+</form>
+</div> 
+</div> 
+<div id="close"><a href="#"><span class="icon-salient-x" aria-hidden="true"></span></a></div>
+</div> 
+</div> 
+</div> 
+<header id="top">
+<div class="container">
+<div class="row">
+<div class="col span_3">
+<a id="logo" href="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/">
+<img class=" dark-version" alt="Velocity" src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/04/Velocity-Header-WEB.png"/>
+</a>
+</div> 
+<div class="col span_9 col_last">
+<a href="#mobilemenu" id="toggle-nav"><i class="icon-reorder"></i></a>
+<nav>
+<ul class="buttons">
+<li id="search-btn"><div><a href="#searchbox"><span class="icon-salient-search" aria-hidden="true"></span></a></div> </li>
+</ul>
+<ul class="sf-menu">
+<li id="menu-item-2195" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2177 current_page_item menu-item-2195"><a href="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/accelerator/">Accelerator</a></li>
+<li id="menu-item-2368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2368"><a href="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/education/">Education</a></li>
+<li id="menu-item-2966" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2966"><a href="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/makermobile/">MakerMobile</a></li>
+<li id="menu-item-2363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2363"><a href="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/coworking/">Coworking</a></li>
+<li id="menu-item-2091" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2091"><a href="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/blog/">Blog</a></li>
+</ul>
+</nav>
+</div> 
+</div> 
+</div> 
+</header>
+<div class="ns-loading-cover"></div>
+</div> 
+<div id="mobile-menu">
+<div class="container">
+<ul>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2177 current_page_item menu-item-2195"><a href="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/accelerator/">Accelerator</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2368"><a href="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/education/">Education</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2966"><a href="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/makermobile/">MakerMobile</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2363"><a href="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/coworking/">Coworking</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2091"><a href="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/blog/">Blog</a></li>
+<li id="mobile-search">
+<form action="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/" method="GET">
+<input type="text" name="s" value="" placeholder="Search.."/>
+</form>
+</li>
+</ul>
+</div>
+</div>
+<div id="ajax-loading-screen" data-method="ajax"><span class="loading-icon "> <span class="default-skin-loading-icon"></span> </span></div>
+<div id="ajax-content-wrap">
+<div class="not-loaded " id="page-header-bg" data-alignment="left" data-parallax="0" data-height="300" style="background-color: #000; background-image: url(http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/05/Accelerator-Banner.png); height: 300px;">
+<div class="container">
+<div class="row">
+<div class="col span_6">
+<h1></h1>
+<span class="subheader"></span>
+</div>
+</div>
+</div>
+</div>
+<div class="container-wrap">
+<div class="container main-content">
+<div class="row">
+<div id="fws_55196c0846875" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid full-width-section standard_section   " style="padding-top: 60px; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg  using-bg-color " style="background-color: #ffffff; "></div> </div><div class="col span_12 dark left">
+<div class="vc_span12 wpb_column column_container col no-extra-padding" data-padding-pos="all" data-hover-bg="" data-animation="" data-delay="0">
+<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<h2 style="text-align: center;">BUILD A GREAT BUSINESS</h2>
+<p>You have a great product, we have a 100-day program to show you how to build a great business. Velocity&#8217;s accelerator program will teach you how to discover, develop and close customers, build strategic partnerships and raise money to take your idea to the next stage of growth. Here are a few things that founders talk about after their Velocity experience.</p>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+<div id="fws_55196c08476d6" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid full-width-section standard_section   " style="padding-top: 25px; padding-bottom: 60px; "><div class="row-bg-wrap"> <div class="row-bg  using-bg-color " style="background-color: #ffffff; "></div> </div><div class="col span_12 dark left">
+<div class="vc_span3 wpb_column column_container col no-extra-padding" data-padding-pos="all" data-hover-bg="" data-animation="" data-delay="0">
+<div class="wpb_wrapper">
+<div class="iwithtext"><div class="iwt-icon"> <i class="icon-default-style icon-move accent-color"></i> </div><div class="iwt-text">
+<h4>DIRECTION</h4>
+<p>You will become a master of the Business Model Canvas and will present your challenges and victories in front of mentors and peers weekly. </div><div class="clear"></div></div>
+</div>
+</div>
+<div class="vc_span3 wpb_column column_container col no-extra-padding" data-padding-pos="all" data-hover-bg="" data-animation="" data-delay="0">
+<div class="wpb_wrapper">
+<div class="iwithtext"><div class="iwt-icon"> <i class="icon-default-style icon-signal accent-color"></i> </div><div class="iwt-text">
+<h4>METRICS</h4>
+<p>We help you develop a single metric that matters most to your business and you will work with us on a weekly basis to uncover ways to improve it. </div><div class="clear"></div></div>
+</div>
+</div>
+<div class="vc_span3 wpb_column column_container col no-extra-padding" data-padding-pos="all" data-hover-bg="" data-animation="" data-delay="0">
+<div class="wpb_wrapper">
+<div class="iwithtext"><div class="iwt-icon"> <i class="icon-default-style icon-bolt accent-color"></i> </div><div class="iwt-text">
+<h4>MENTORSHIP</h4>
+<p>Learn the basics of building a business, from developing a value proposition that customers care about to making your first hire, to negotiating strategic partnerships. </div><div class="clear"></div></div>
+</div>
+</div>
+<div class="vc_span3 wpb_column column_container col no-extra-padding" data-padding-pos="all" data-hover-bg="" data-animation="" data-delay="0">
+<div class="wpb_wrapper">
+<div class="iwithtext"><div class="iwt-icon"> <i class="icon-default-style icon-group accent-color"></i> </div><div class="iwt-text">
+<h4>COMMUNITY</h4>
+<p>The entrepreneurial journey is lonely. Velocity is a hub of individuals who understand what you&#8217;re going through because they have chosen the same path as you. </div><div class="clear"></div></div>
+</div>
+</div>
+</div></div>
+<div id="fws_55196c0849582" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid full-width-section parallax_section  demoday " data-using-ctc="true" style="padding-top: 250px; padding-bottom: 250px; color: #ffffff; "><div class="row-bg-wrap"> <div class="row-bg using-image  " style="background-image: url(http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/02/Apply-Banner-Home.png); background-position: left top; background-repeat: no-repeat; "></div> </div><ul class="nectar-parallax-scene" data-scene-position="center" data-scene-strength="10"><li class="layer" data-depth="0.00"></li></ul><div class="nectar-slider-loading "> <span class="loading-icon "> </span> </div><div class="col span_12 custom left">
+<div class="vc_span12 demodayaccelerator wpb_column column_container col no-extra-padding" data-padding-pos="all" data-hover-bg="" data-animation="" data-delay="0">
+<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<h2 style="text-align: center;"><span style="color: #ffffff;">APPLICATIONS ARE CLOSED</span></h2>
+<p style="text-align: center;"><span style="color: #ffffff;">Learn more about the Spring 2015 Accelerator cohort</span></p>
+<h2 style="text-align: center; font-family: Molengo; font-size: 30px;"><a class="nectar-button medium see-through-2" target="_blank" href="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/velocity-happenings/velocity-announces-spring-2015-accelerator-cohort/" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff"><span>Meet the Teams</span> </a></h2>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+<div id="fws_55196c084a123" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid full-width-section standard_section   " style="padding-top: 75px; padding-bottom: 50px; "><div class="row-bg-wrap"> <div class="row-bg  using-bg-color " style="background-color: #ffffff; "></div> </div><div class="col span_12 dark left">
+<div class="vc_span12 wpb_column column_container col no-extra-padding" data-padding-pos="all" data-hover-bg="" data-animation="" data-delay="0">
+<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<h2 style="text-align: center;"><span style="color: #333333;">HAVE A GREAT PLACE TO WORK</span></h2>
+<p style="text-align: center;"><span style="color: #333333;">Accepted teams get free coworking and event space for life.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+<div id="fws_55196c084ab39" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid full-width-content standard_section vertically-align-columns  " style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12 dark left">
+<div class="vc_span12 wpb_column column_container col no-extra-padding" data-padding-pos="all" data-hover-bg="" data-animation="" data-delay="0">
+<div class="wpb_wrapper">
+<div class="wpb_gallery wpb_content_element clearfix">
+<div class="wpb_wrapper"><div class="wpb_gallery_slidesimage_grid" data-interval="3">
+<div class="portfolio-wrap ">
+<span class="portfolio-loading"></span>
+<div id="portfolio" class="row portfolio-items no-masonry  constrain-max-cols" data-starting-filter="" data-categories-to-show="" data-col-num="elastic">
+<div class="col elastic-portfolio-item element" data-project-cat="" data-default-color="true">
+<div class="work-item style-3">
+<img src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/09/Startup-Weekend-Planning-Team.png" width="1200" height="800" alt="Startup-Weekend-Louisville-Planning-Team"/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<div class="vert-center">
+</div> 
+<a href="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/wp-content/uploads/2014/09/Startup-Weekend-Planning-Team-1024x682.png" rel="prettyPhoto[rel-657463191]"></a>
+</div>
+</div> 
+</div>
+<div class="col elastic-portfolio-item element" data-project-cat="" data-default-color="true">
+<div class="work-item style-3">
+<img src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/02/Arcade-1200x800.png" width="1200" height="800" alt="Sit Down Arcade - Velocity Indiana"/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<div class="vert-center">
+</div> 
+<a href="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/wp-content/uploads/2014/02/Arcade-1024x682.png" rel="prettyPhoto[rel-657463191]"></a>
+</div>
+</div> 
+</div>
+<div class="col elastic-portfolio-item element" data-project-cat="" data-default-color="true">
+<div class="work-item style-3">
+<img src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/08/Governor-Pence-Visit.png" width="1200" height="800" alt="Indiana Governor Mike Pence Visits Velocity 080614"/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<div class="vert-center">
+</div> 
+<a href="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/wp-content/uploads/2014/08/Governor-Pence-Visit-1024x682.png" rel="prettyPhoto[rel-657463191]"></a>
+</div>
+</div> 
+</div>
+<div class="col elastic-portfolio-item element" data-project-cat="" data-default-color="true">
+<div class="work-item style-3">
+<img src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/02/Foosball-1200x800.png" width="1200" height="800" alt="Foosball &amp; Ping Pong - Velocity Indiana"/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<div class="vert-center">
+</div> 
+<a href="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/wp-content/uploads/2014/02/Foosball-1024x682.png" rel="prettyPhoto[rel-657463191]"></a>
+</div>
+</div> 
+</div>
+<div class="col elastic-portfolio-item element" data-project-cat="" data-default-color="true">
+<div class="work-item style-3">
+<img src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/12/Opportunity-Knox-Panel.png" width="1200" height="800" alt="Where Opportunity Knox Breakfast"/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<div class="vert-center">
+</div> 
+<a href="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/wp-content/uploads/2014/12/Opportunity-Knox-Panel-1024x682.png" rel="prettyPhoto[rel-657463191]"></a>
+</div>
+</div> 
+</div>
+<div class="col elastic-portfolio-item element" data-project-cat="" data-default-color="true">
+<div class="work-item style-3">
+<img src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/02/Beer-Tap-1200x800.png" width="1200" height="800" alt="Free Beer - Velocity Indiana"/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<div class="vert-center">
+</div> 
+<a href="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/wp-content/uploads/2014/02/Beer-Tap-1024x682.png" rel="prettyPhoto[rel-657463191]"></a>
+</div>
+</div> 
+</div>
+<div class="col elastic-portfolio-item element" data-project-cat="" data-default-color="true">
+<div class="work-item style-3">
+<img src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/07/findCRA-Velocity.png" width="1200" height="800" alt="Ben and Brian from findCRA - Velocity"/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<div class="vert-center">
+</div> 
+<a href="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/wp-content/uploads/2014/07/findCRA-Velocity-1024x682.png" rel="prettyPhoto[rel-657463191]"></a>
+</div>
+</div> 
+</div>
+<div class="col elastic-portfolio-item element" data-project-cat="" data-default-color="true">
+<div class="work-item style-3">
+<img src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/02/Annex-Space-1200x800.png" width="1200" height="800" alt="More Coworking Space - Velocity Indiana"/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<div class="vert-center">
+</div> 
+<a href="http://web.archive.org/web/20150331135813/http://www.velocityindiana.org/wp-content/uploads/2014/02/Annex-Space-1024x682.png" rel="prettyPhoto[rel-657463191]"></a>
+</div>
+</div> 
+</div></div></div></div>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+<div id="fws_55196c0860977" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid full-width-section standard_section   " style="padding-top: 100px; padding-bottom: 100px; "><div class="row-bg-wrap"> <div class="row-bg  using-bg-color " style="background-color: #000000; "></div> </div><div class="col span_12 dark left">
+<div class="vc_span12 wpb_column column_container col no-extra-padding" data-padding-pos="all" data-hover-bg="" data-animation="" data-delay="0">
+<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<h2 style="text-align: center;"><span style="color: #ffffff;">GET SEED FUNDING ON GREAT TERMS</span></h2>
+<p style="text-align: center;"><span style="color: #ffffff;">Accepted companies receive $15,000 in exchange for a 4.5% equity stake.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+<div id="fws_55196c08613c9" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid full-width-section standard_section vertically-align-columns  " style="padding-top: 10px; padding-bottom: 30px; "><div class="row-bg-wrap"> <div class="row-bg  using-bg-color " style="background-color: #ffffff; "></div> </div><div class="col span_12 dark left">
+<div style=" background-color: #ffffff; " class="vc_span12 wpb_column column_container col centered-text padding-5-percent" data-using-bg="true" data-padding-pos="all" data-hover-bg="" data-animation="" data-delay="0">
+<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<h2 style="text-align: center;">OUR PORTFOLIO COMPANIES</h2>
+</div>
+</div> <div class="divider"></div>
+<div class="portfolio-wrap ">
+<span class="portfolio-loading  "> </span>
+<div id="portfolio" class="row portfolio-items no-masonry   constrain-max-cols" data-starting-filter="default" data-categories-to-show="companies" data-col-num="cols-4">
+<div class="col span_3  element 4th-cohort companies " data-project-cat="4th-cohort companies " data-default-color="true">
+<div class="work-item style-2">
+<img width="400" height="160" src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2015/03/Sweetwater-Beverage-Company.png" class="attachment-portfolio-thumb wp-post-image" alt="Sweetwater-Beverage-Company - Velocity Accelerator 4th Cohort Spring 2015" title=""/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<i class="icon-salient-plus"></i>
+<a href="#"></a>
+<div class="vert-center">
+<h3>Sweetwater Beverage Company</h3>
+</div> 
+</div>
+</div> 
+</div> 
+<div class="col span_3  element 4th-cohort companies " data-project-cat="4th-cohort companies " data-default-color="true">
+<div class="work-item style-2">
+<img width="400" height="160" src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2015/03/SmartLanes-Technologies.png" class="attachment-portfolio-thumb wp-post-image" alt="SmartLanes-Technologies - Velocity Accelerator 4th Cohort Spring 2015" title=""/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<i class="icon-salient-plus"></i>
+<a href="http://web.archive.org/web/20150331135813/http://smartlanestechnologies.com/"></a>
+<div class="vert-center">
+<h3>SmartLanes Technologies</h3>
+</div> 
+</div>
+</div> 
+</div> 
+<div class="col span_3  element 4th-cohort companies " data-project-cat="4th-cohort companies " data-default-color="true">
+<div class="work-item style-2">
+<img width="400" height="160" src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2015/03/Schedule-It.png" class="attachment-portfolio-thumb wp-post-image" alt="Schedule-It - Velocity Accelerator 4th Cohort Spring 2015" title=""/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<i class="icon-salient-plus"></i>
+<a href="http://web.archive.org/web/20150331135813/http://www.scheduleit.org/"></a>
+<div class="vert-center">
+<h3>Schedule It</h3>
+</div> 
+</div>
+</div> 
+</div> 
+<div class="col span_3  element 4th-cohort companies " data-project-cat="4th-cohort companies " data-default-color="true">
+<div class="work-item style-2">
+<img width="400" height="160" src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2015/03/MobileServe.png" class="attachment-portfolio-thumb wp-post-image" alt="MobileServe - Velocity Accelerator 4th Cohort Spring 2015" title=""/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<i class="icon-salient-plus"></i>
+<a href="http://web.archive.org/web/20150331135813/http://mobileserve.org/"></a>
+<div class="vert-center">
+<h3>MobileServe</h3>
+</div> 
+</div>
+</div> 
+</div> 
+<div class="col span_3  element 4th-cohort companies " data-project-cat="4th-cohort companies " data-default-color="true">
+<div class="work-item style-2">
+<img width="400" height="160" src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2015/03/Credit-Fair-e.png" class="attachment-portfolio-thumb wp-post-image" alt="Credit-Fair-e - Velocity Accelerator 4th Cohort Spring 2015" title=""/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<i class="icon-salient-plus"></i>
+<a href="http://web.archive.org/web/20150331135813/http://www.creditfaire.com/"></a>
+<div class="vert-center">
+<h3>Credit Fair-e</h3>
+</div> 
+</div>
+</div> 
+</div> 
+<div class="col span_3  element 3rd-cohort companies " data-project-cat="3rd-cohort companies " data-project-color="#c6222f">
+<div class="work-item style-2">
+<img width="400" height="160" src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/06/US-Chia.png" class="attachment-portfolio-thumb wp-post-image" alt="US Chia Logo - Velocity Accelerator Summer 2014 Cohort" title=""/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<i class="icon-salient-plus"></i>
+<a href="http://web.archive.org/web/20150331135813/http://uschia.com/"></a>
+<div class="vert-center">
+<h3>US Chia</h3>
+</div> 
+</div>
+</div> 
+</div> 
+<div class="col span_3  element 3rd-cohort companies " data-project-cat="3rd-cohort companies " data-default-color="true">
+<div class="work-item style-2">
+<img width="400" height="160" src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/06/The-Recovery-Station.png" class="attachment-portfolio-thumb wp-post-image" alt="The Recovery Station Logo - Velocity Accelerator Summer 2014 Cohort" title=""/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<i class="icon-salient-plus"></i>
+<a href="http://web.archive.org/web/20150331135813/http://therecoverystation.com/"></a>
+<div class="vert-center">
+<h3>Recovery Station</h3>
+</div> 
+</div>
+</div> 
+</div> 
+<div class="col span_3  element 3rd-cohort companies " data-project-cat="3rd-cohort companies " data-default-color="true">
+<div class="work-item style-2">
+<img width="400" height="160" src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/06/SPOTDY.png" class="attachment-portfolio-thumb wp-post-image" alt="SPOTDY Logo - Velocity Accelerator Summer 2014 Cohort" title=""/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<i class="icon-salient-plus"></i>
+<a href="http://web.archive.org/web/20150331135813/http://spotdy.com/"></a>
+<div class="vert-center">
+<h3>SPOTDY</h3>
+</div> 
+</div>
+</div> 
+</div> 
+<div class="col span_3  element 3rd-cohort companies " data-project-cat="3rd-cohort companies " data-default-color="true">
+<div class="work-item style-2">
+<img width="400" height="160" src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/06/Soccer-Sidekick.png" class="attachment-portfolio-thumb wp-post-image" alt="Soccer Sidekick Logo - Velocity Accelerator Summer 2014 Cohort" title=""/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<i class="icon-salient-plus"></i>
+<a href="http://web.archive.org/web/20150331135813/http://soccersidekick.com/"></a>
+<div class="vert-center">
+<h3>Soccer Sidekick</h3>
+</div> 
+</div>
+</div> 
+</div> 
+<div class="col span_3  element 3rd-cohort companies " data-project-cat="3rd-cohort companies " data-default-color="true">
+<div class="work-item style-2">
+<img width="400" height="160" src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/06/Room-in-the-Moon.png" class="attachment-portfolio-thumb wp-post-image" alt="Room in the Moon" title=""/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<i class="icon-salient-plus"></i>
+<a href="http://web.archive.org/web/20150331135813/http://www.roominthemoon.com/LandingPage.aspx"></a>
+<div class="vert-center">
+<h3>Room in the Moon</h3>
+</div> 
+</div>
+</div> 
+</div> 
+<div class="col span_3  element 3rd-cohort companies " data-project-cat="3rd-cohort companies " data-default-color="true">
+<div class="work-item style-2">
+<img width="400" height="160" src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/06/findCRA.png" class="attachment-portfolio-thumb wp-post-image" alt="findCRA Logo - Velocity Accelerator Summer 2014 Cohort" title=""/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<i class="icon-salient-plus"></i>
+<a href="http://web.archive.org/web/20150331135813/http://findcra.herokuapp.com/louisville"></a>
+<div class="vert-center">
+<h3>findCRA</h3>
+</div> 
+</div>
+</div> 
+</div> 
+<div class="col span_3  element 3rd-cohort companies " data-project-cat="3rd-cohort companies " data-default-color="true">
+<div class="work-item style-2">
+<img width="400" height="160" src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/06/Complete-Set.png" class="attachment-portfolio-thumb wp-post-image" alt="Complete Set Logo - Velocity Accelerator Summer 2014 Cohort" title=""/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<i class="icon-salient-plus"></i>
+<a href="http://web.archive.org/web/20150331135813/https://www.completeset.com/"></a>
+<div class="vert-center">
+<h3>Complete Set</h3>
+</div> 
+</div>
+</div> 
+</div> 
+<div class="col span_3  element 3rd-cohort companies " data-project-cat="3rd-cohort companies " data-default-color="true">
+<div class="work-item style-2">
+<img width="400" height="160" src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/06/Calculingua.png" class="attachment-portfolio-thumb wp-post-image" alt="Calculingua Logo - Velocity Accelerator Summer 2014 Cohort" title=""/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<i class="icon-salient-plus"></i>
+<a href="http://web.archive.org/web/20150331135813/https://calculingua.com/index.html"></a>
+<div class="vert-center">
+<h3>Calculingua</h3>
+</div> 
+</div>
+</div> 
+</div> 
+<div class="col span_3  element cohort2 companies " data-project-cat="cohort2 companies " data-project-color="#c6222f">
+<div class="work-item style-2">
+<img width="400" height="160" src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/05/GroomHQ.png" class="attachment-portfolio-thumb wp-post-image" alt="GroomHQ Logo - Velocity Accelerator" title=""/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<i class="icon-salient-plus"></i>
+<a href="http://web.archive.org/web/20150331135813/http://groomhq.com/"></a>
+<div class="vert-center">
+<h3>GroomHQ</h3>
+</div> 
+</div>
+</div> 
+</div> 
+<div class="col span_3  element cohort2 companies " data-project-cat="cohort2 companies " data-default-color="true">
+<div class="work-item style-2">
+<img width="400" height="160" src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/05/GearBrake.png" class="attachment-portfolio-thumb wp-post-image" alt="GearBrake Logo - Velocity Accelerator" title=""/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<i class="icon-salient-plus"></i>
+<a href="http://web.archive.org/web/20150331135813/https://gearbrake.com/"></a>
+<div class="vert-center">
+<h3>GearBrake</h3>
+</div> 
+</div>
+</div> 
+</div> 
+<div class="col span_3  element cohort2 companies " data-project-cat="cohort2 companies " data-default-color="true">
+<div class="work-item style-2">
+<img width="400" height="160" src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/05/MillionDollarScholar.png" class="attachment-portfolio-thumb wp-post-image" alt="Million Dollar Scholar Logo - Velocity Accelerator" title=""/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<i class="icon-salient-plus"></i>
+<a href="http://web.archive.org/web/20150331135813/http://milliondollarscholar.com/"></a>
+<div class="vert-center">
+<h3>MDS</h3>
+</div> 
+</div>
+</div> 
+</div> 
+<div class="col span_3  element cohort2 companies " data-project-cat="cohort2 companies " data-default-color="true">
+<div class="work-item style-2">
+<img width="400" height="160" src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/05/Drifter-Events.png" class="attachment-portfolio-thumb wp-post-image" alt="Drifter Events Logo - Velocity Accelerator" title=""/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<i class="icon-salient-plus"></i>
+<a href="http://web.archive.org/web/20150331135813/http://www.drifterevents.com/"></a>
+<div class="vert-center">
+<h3>Drifter Events</h3>
+</div> 
+</div>
+</div> 
+</div> 
+<div class="col span_3  element cohort1 companies " data-project-cat="cohort1 companies " data-default-color="true">
+<div class="work-item style-2">
+<img width="400" height="160" src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/05/Alumnify.png" class="attachment-portfolio-thumb wp-post-image" alt="Alumnify Logo - Velocity Accelerator" title=""/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<i class="icon-salient-plus"></i>
+<a href="http://web.archive.org/web/20150331135813/http://alumnify.co/"></a>
+<div class="vert-center">
+<h3>Alumnify</h3>
+</div> 
+</div>
+</div> 
+</div> 
+<div class="col span_3  element cohort1 companies " data-project-cat="cohort1 companies " data-default-color="true">
+<div class="work-item style-2">
+<img width="400" height="160" src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/05/Steel-Fashion.png" class="attachment-portfolio-thumb wp-post-image" alt="Steel Fashion Logo - Velocity Accelerator" title=""/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<i class="icon-salient-plus"></i>
+<a href="http://web.archive.org/web/20150331135813/http://steelfashion.com/"></a>
+<div class="vert-center">
+<h3>Steel Fashion</h3>
+</div> 
+</div>
+</div> 
+</div> 
+<div class="col span_3  element cohort1 companies " data-project-cat="cohort1 companies " data-default-color="true">
+<div class="work-item style-2">
+<img width="400" height="160" src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/05/Pass-It.png" class="attachment-portfolio-thumb wp-post-image" alt="Pass It Logo - Velocity Accelerator" title=""/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<i class="icon-salient-plus"></i>
+<a href="#"></a>
+<div class="vert-center">
+<h3>Pass It</h3>
+</div> 
+</div>
+</div> 
+</div> 
+<div class="col span_3  element cohort1 companies " data-project-cat="cohort1 companies " data-default-color="true">
+<div class="work-item style-2">
+<img width="400" height="160" src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/05/large.png" class="attachment-portfolio-thumb wp-post-image" alt="Large Logo - Velocity Accelerator" title=""/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<i class="icon-salient-plus"></i>
+<a href="#"></a>
+<div class="vert-center">
+<h3>Large</h3>
+</div> 
+</div>
+</div> 
+</div> 
+<div class="col span_3  element cohort1 companies " data-project-cat="cohort1 companies " data-default-color="true">
+<div class="work-item style-2">
+<img width="400" height="160" src="http://web.archive.org/web/20150331135813im_/http://www.velocityindiana.org/wp-content/uploads/2014/05/Collabra.png" class="attachment-portfolio-thumb wp-post-image" alt="Collabra Logo - Velocity Accelerator" title=""/>
+<div class="work-info-bg"></div>
+<div class="work-info">
+<i class="icon-salient-plus"></i>
+<a href="http://web.archive.org/web/20150331135813/http://www.collabramusic.com/"></a>
+<div class="vert-center">
+<h3>Collabra</h3>
+</div> 
+</div>
+</div> 
+</div> 
+</div> 
+</div> 
+</div>
+</div>
+</div></div>
+</div> 
+</div> 
+</div>
+<div id="footer-outer" data-using-widget-area="true">
+<div id="footer-widgets">
+<div class="container">
+<div class="row">
+<div class="col span_6">
+ 
+<div id="text-3" class="widget widget_text"><h4>Contact Us</h4> <div class="textwidget"><img src="http://web.archive.org/web/20150331135813im_/http://velocityindiana.org/wp-content/uploads/2014/04/Velocity-Footer-Logos.png"><br>
+400 Missouri Ave<br>
+Jeffersonville, IN 47130<br>
+info@velocityindiana.org<br>
+502.785.8800<br>
+</div>
+</div> </div> 
+<div class="col span_6">
+ 
+<div id="text-4" class="widget widget_text"><h4>Get The Newsletter </h4> <div class="textwidget"> 
+<link href="//web.archive.org/web/20150331135813cs_/http://cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+<style type="text/css">#mc_embed_signup{background:#252525;clear:left;font:14px Helvetica,Arial,sans-serif;}#mc_embed_signup form{padding-left:0px;}</style>
+<div id="mc_embed_signup">
+<form action="http://web.archive.org/web/20150331135813/http://velocityindiana.us7.list-manage.com/subscribe/post?u=76ffe343f6a924f874adc820e&amp;id=428d1a628c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<label for="mce-EMAIL">Subscribe to our mailing list</label>
+<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+ 
+<div style="position: absolute; left: -5000px;"><input type="text" name="b_76ffe343f6a924f874adc820e_428d1a628c" tabindex="-1" value=""></div>
+<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="background-color:#C6222F !important;"></div>
+</form>
+</div>
+ </div>
+</div>
+</div> 
+</div> 
+</div> 
+</div> 
+<div class="row" id="copyright">
+<div class="container">
+<div class="col span_5">
+<p>&copy; 2015 Velocity. </p>
+</div> 
+<div class="col span_7 col_last">
+<ul id="social">
+<li><a target="_blank" href="http://web.archive.org/web/20150331135813/https://twitter.com/velocityin"><i class="icon-twitter"></i> </a></li> <li><a target="_blank" href="http://web.archive.org/web/20150331135813/https://www.facebook.com/VelocityIndiana"><i class="icon-facebook"></i> </a></li> <li><a target="_blank" href="http://web.archive.org/web/20150331135813/https://www.linkedin.com/company/velocity-indiana-inc-"><i class="icon-linkedin"></i> </a></li> <li><a target="_blank" href="http://web.archive.org/web/20150331135813/https://www.youtube.com/user/VelocityindianaOrg1"><i class="icon-youtube"></i> </a></li> <li><a target="_blank" href="http://web.archive.org/web/20150331135813/https://plus.google.com/+VelocityIndianaJeffersonville/about"><i class="icon-google-plus"></i> </a></li> </ul>
+</div> 
+</div> 
+</div> 
+</div> 
+</div>  
+<a id="to-top"><i class="icon-angle-up"></i></a>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//web.archive.org/web/20150331135813/http://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44206227-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="http://web.archive.org/web/20150331135813js_/http://www.velocityindiana.org/wp-includes/js/jquery/ui/core.min.js?ver=1.11.2"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20150331135813js_/http://www.velocityindiana.org/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.2"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20150331135813js_/http://www.velocityindiana.org/wp-includes/js/jquery/ui/position.min.js?ver=1.11.2"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20150331135813js_/http://www.velocityindiana.org/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.2"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20150331135813js_/http://www.velocityindiana.org/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var MyAcSearch = {"url":"http:\/\/web.archive.org\/web\/20150331135813\/http:\/\/www.velocityindiana.org\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://web.archive.org/web/20150331135813js_/http://www.velocityindiana.org/wp-content/themes/salient/nectar/assets/functions/ajax-search/wpss-search-suggest.js"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20150331135813js_/http://www.velocityindiana.org/wp-content/themes/salient/js/superfish.js?ver=1.4.8"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20150331135813js_/http://www.velocityindiana.org/wp-content/themes/salient/js/respond.js?ver=1.1"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20150331135813js_/http://www.velocityindiana.org/wp-content/themes/salient/js/sticky.js?ver=1.0"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20150331135813js_/http://www.velocityindiana.org/wp-content/themes/salient/js/prettyPhoto.js?ver=4.8.1"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20150331135813js_/http://www.velocityindiana.org/wp-content/themes/salient/js/isotope.min.js?ver=2.0"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var nectarLove = {"ajaxurl":"http:\/\/web.archive.org\/web\/20150331135813\/http:\/\/www.velocityindiana.org\/wp-admin\/admin-ajax.php","postID":"2177","rooturl":"http:\/\/web.archive.org\/web\/20150331135813\/http:\/\/www.velocityindiana.org","pluginPages":[],"disqusComments":"false"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://web.archive.org/web/20150331135813js_/http://www.velocityindiana.org/wp-content/themes/salient/js/init.js?ver=4.8.1"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20150331135813js_/http://www.velocityindiana.org/wp-content/themes/salient/wpbakery/js_composer/assets/js/js_composer_front.js?ver=3.7.3"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20150331135813js_/http://www.velocityindiana.org/wp-content/themes/salient/js/parallax.js?ver=1.0"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"c8902b90ba","applicationID":"3363511","transactionName":"Z1NXMkUDWkNUUERaCV4ZYBReTV1eUVZIHRZYRg==","queueTime":0,"applicationTime":14,"atts":"SxRURA0ZSU0=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-593.min.js"}</script></body>
+</html>
+ 
+ 
+ 
+ 
+ <!--
+     FILE ARCHIVED ON 13:58:13 Mar 31, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:57:39 May 25, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.509
+  exclusion.robots: 0.033
+  exclusion.robots.policy: 0.024
+  esindex: 0.009
+  cdx.remote: 78.72
+  LoadShardBlock: 134.184 (3)
+  PetaboxLoader3.datanode: 92.481 (4)
+  PetaboxLoader3.resolve: 221.641 (2)
+  load_resource: 195.993
+-->

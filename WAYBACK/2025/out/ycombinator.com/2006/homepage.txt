@@ -1,0 +1,31 @@
+Y Combinator
+The Wayback Machine - http://ycombinator.com:80/
+NY Times:
+Systematizing the two guys in a garage.
+Y Combinator
+is a new kind of venture firm specializing in
+funding very early stage startups.  We help startups through
+what is for many the hardest step, from idea to company.
+We invest mostly in software and Web services.
+And because we are ourselves technology people, 
+we prefer groups with a lot of technical depth.
+We care more about how smart you are than how old
+you are, and more about the quality of your idea
+than whether you have a formal business plan.
+SFP
+|
+Funding
+|
+About
+|
+Quotes
+|
+FAQ
+|
+School
+|
+Contact
+|
+Lib
+|
+Etc
